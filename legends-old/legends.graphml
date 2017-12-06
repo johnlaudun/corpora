@@ -1,0 +1,426 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"  
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+     http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+
+<graph id="G" edgedefault="undirected">
+    <node id="n0"/>
+	
+	OR
+	
+    <node id="n0">  
+      <data key="d0">  
+        <y:ShapeNode>  
+          <y:Geometry x="170.5" y="-15.0" width="59.0" height="30.0"/>  
+          <y:Fill color="#CCCCFF" transparent="false"/>  
+          <y:BorderStyle type="line" width="1.0" color="#000000"/>  
+          <y:NodeLabel>January</y:NodeLabel>  
+          <y:Shape type="rectangle"/>  
+        </y:ShapeNode>  
+      </data>  
+    </node>  
+	
+	<edge source="n0" target="n2"/>
+	<edge id="e1" directed="true" source="n0" target="n2"/>
+	
+*Vertices 268
+1	"north"
+2	"lake"
+3	"old"
+4	"indian"
+5	"jim"
+6	"asked"
+7	"where"
+8	"might"
+9	"tree"
+10	"knew"
+11	"started"
+12	"digging"
+13	"dug"
+14	"great"
+15	"big"
+16	"bull"
+17	"that"
+18	"came"
+19	"through"
+20	"woods"
+21	"coming"
+22	"nose"
+23	"passed"
+24	"shovel"
+25	"man"
+26	"all"
+27	"looked"
+28	"gone"
+29	"ill"
+30	"go"
+31	"back"
+32	"town"
+33	"spirit"
+34	"controller"
+35	"time"
+36	"later"
+37	"during"
+38	"know"
+39	"wife"
+40	"thought"
+41	"wanted"
+42	"talk"
+43	"didnt"
+44	"give"
+45	"father"
+46	"going"
+47	"far"
+48	"decided"
+49	"see"
+50	"hole"
+51	"chest"
+52	"found"
+53	"fire"
+54	"its"
+55	"heard"
+56	"when"
+57	"louder"
+58	"story"
+59	"look"
+60	"treasure"
+61	"other"
+62	"men"
+63	"bible"
+64	"saw"
+65	"dog"
+66	"anything"
+67	"wind"
+68	"took"
+69	"running"
+70	"never"
+71	"after"
+72	"dig"
+73	"lot"
+74	"money"
+75	"ground"
+76	"little"
+77	"brother"
+78	"stay"
+79	"mother"
+80	"seen"
+81	"tomb"
+82	"this"
+83	"show"
+84	"two"
+85	"one"
+86	"raised"
+87	"down"
+88	"water"
+89	"side"
+90	"wasnt"
+91	"things"
+92	"outside"
+93	"nothing"
+94	"supposedly"
+95	"thats"
+96	"place"
+97	"couldnt"
+98	"lived"
+99	"years"
+100	"twenty"
+101	"relative"
+102	"country"
+103	"near"
+104	"girl"
+105	"house"
+106	"goes"
+107	"children"
+108	"sitting"
+109	"same"
+110	"area"
+111	"day"
+112	"stone"
+113	"slab"
+114	"stuck"
+115	"weird"
+116	"something"
+117	"disappeared"
+118	"grandmother"
+119	"these"
+120	"stories"
+121	"almost"
+122	"friend"
+123	"mine"
+124	"louisiana"
+125	"hunting"
+126	"night"
+127	"dont"
+128	"youre"
+129	"front"
+130	"people"
+131	"help"
+132	"think"
+133	"bury"
+134	"land"
+135	"guard"
+136	"hes"
+137	"make"
+138	"around"
+139	"before"
+140	"put"
+141	"family"
+142	"always"
+143	"young"
+144	"guess"
+145	"home"
+146	"take"
+147	"circle"
+148	"deep"
+149	"noise"
+150	"up"
+151	"coins"
+152	"red"
+153	"everything"
+154	"trying"
+155	"im"
+156	"telling"
+157	"aint"
+158	"now"
+159	"scared"
+160	"car"
+161	"yard"
+162	"stuff"
+163	"grandfather"
+164	"work"
+165	"dressed"
+166	"white"
+167	"everybody"
+168	"tell"
+169	"working"
+170	"praying"
+171	"understand"
+172	"here"
+173	"walking"
+174	"guy"
+175	"nobody"
+176	"getting"
+177	"pirate"
+178	"talking"
+179	"while"
+180	"cant"
+181	"branch"
+182	"more"
+183	"drink"
+184	"theyd"
+185	"son"
+186	"yall"
+187	"run"
+188	"mean"
+189	"full"
+190	"actually"
+191	"built"
+192	"enough"
+193	"name"
+194	"billy"
+195	"moved"
+196	"drunk"
+197	"hed"
+198	"church"
+199	"killed"
+200	"dark"
+201	"jean"
+202	"stopped"
+203	"mississippi"
+204	"much"
+205	"lafitte"
+206	"galveston"
+207	"theres"
+208	"over"
+209	"road"
+210	"part"
+211	"seven"
+212	"described"
+213	"remember"
+214	"somebody"
+215	"thing"
+216	"store"
+217	"smith"
+218	"john"
+219	"brock"
+220	"pancho"
+221	"villa"
+222	"finally"
+223	"pretty"
+224	"new"
+225	"war"
+226	"close"
+227	"united"
+228	"states"
+229	"mexican"
+230	"making"
+231	"crop"
+232	"boys"
+233	"long"
+234	"somewhere"
+235	"west"
+236	"believe"
+237	"let"
+238	"toro"
+239	"creek"
+240	"stage"
+241	"station"
+242	"id"
+243	"guys"
+244	"rock"
+245	"eight"
+246	"flour"
+247	"barrel"
+248	"reeds"
+249	"shoes"
+250	"piece"
+251	"buy"
+252	"slaves"
+253	"whole"
+254	"call"
+255	"fellow"
+256	"orleans"
+257	"coast"
+258	"slave"
+259	"hunt"
+260	"located"
+261	"word"
+262	"else"
+263	"powder"
+264	"keep"
+265	"ive"
+266	"fellows"
+267	"real"
+268	"gun"
+*arcs
+1	2	3
+3	5	3
+3	240	4
+3	241	3
+3	258	6
+6	7	4
+6	83	3
+7	52	3
+7	74	3
+7	80	4
+7	82	6
+7	98	3
+13	150	4
+15	17	3
+17	3	4
+17	7	4
+17	9	6
+17	11	3
+17	18	5
+17	24	3
+17	26	3
+17	33	4
+17	56	5
+17	60	3
+17	74	11
+17	76	3
+17	82	3
+17	84	3
+17	97	3
+17	105	4
+17	110	4
+17	126	3
+17	150	5
+17	215	3
+17	263	4
+18	31	4
+18	150	3
+19	20	5
+21	22	3
+25	17	6
+25	26	3
+25	49	3
+25	105	3
+25	108	3
+25	127	3
+26	17	5
+26	74	5
+30	31	6
+30	32	4
+30	49	5
+30	72	3
+30	150	3
+31	17	3
+31	71	5
+31	105	4
+31	164	3
+33	34	3
+35	38	3
+38	17	4
+43	38	6
+49	17	4
+49	25	3
+49	82	3
+49	175	4
+54	172	4
+54	174	3
+54	208	3
+56	17	6
+56	27	5
+56	86	3
+64	91	3
+72	74	6
+72	150	4
+73	74	3
+73	130	3
+74	150	3
+76	20	3
+80	91	4
+82	17	4
+82	25	3
+82	74	8
+82	76	5
+82	174	4
+82	198	3
+83	7	6
+85	35	4
+85	61	3
+85	87	3
+85	111	7
+92	227	3
+92	228	3
+95	17	3
+99	36	3
+105	17	3
+112	113	4
+116	17	4
+119	18	3
+119	84	4
+122	123	3
+127	17	3
+127	38	11
+127	49	4
+127	175	4
+130	127	3
+138	17	3
+150	7	4
+150	17	4
+150	74	3
+150	83	3
+157	93	3
+158	17	4
+168	158	3
+174	9	3
+175	261	3
+197	30	4
+208	17	3
+208	172	5
+218	118	3
+218	248	3
+220	221	3
+224	256	3
+227	228	5
+230	149	3
+240	241	3
+246	247	3
+248	118	3
+257	135	3
+
+</graph>
+</graphml>
