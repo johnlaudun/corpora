@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<!DOCTYPE TEI.2 system 'tei2.dtd' [<!ENTITY % TEI.spoken 'INCLUDE' >]>
+	
+<teiHeader>
+	<!-- TEI Header Info -->
+</teiHeader>	 
+<text>
+
+Well, Mr. Ivey done had dat built for Mr. Jakey, his brother, what
+owned dis place afore I was born, I 'spects. 
+Dey say how Mr. Jakey war a powerful good master, 
+but he was tuk outen his mind, an' it wan't safe ter go nigh him, 
+so Mr. Ivey built dat little house, an' shut him up fer years an' years. 
+Now dis is what I done heard talked among der white people in der big house, 
+how Mr. Ivey got tired er waitin' fer his brother ter die 
+so he could git der place, 
+kase Mr. Jakey ain't never married an' Mr. Ivey would git it all. 
+No one ever seed Mr. Jakey a'ter he was put in dar, 'cep'n jest Mr. Ivey, 
+and so nobody did n't know ter trufe of it 
+when Mr. Ivey told how Mr. Jakey was daid all of a sudden, 
+and he was a gwine ter bury him under der oak in a bran new brick vault. 
+Well, dey suttenly did have some kind of er funeral, 
+but dar was n't no preacher an' no mourners, 
+an' dem niggers what toted dat coffin say how it was powerful light. 
+You see, chile, dat coffin was plum empty, kase Mr. Jakey was seen
+a'ter dat, an' alive too. Yes, alive- as sure as yer here.
+Out dar in der brulee was a poor white 
+what had a little place on der aidge of der swamp, 
+and dey do say how Mr. Ivey done give it to him. 
+Well, it was out in dat turruble place 
+where Mr. Jakey was seen by more 'n one 'liable pussen. 
+An', pore cretur, he was chained ter a stump 
+and gwine on all fours like a dum' beast, 
+and a eating grass jes like dat ole man 
+what Miss useter read about in der Bible. 
+Well, one day he done broke his chain an' wan'ered off in ter de swamp 
+and no one never seed him after dat, 
+and no one never found his poor ole bones. 
+And dat coffin was jest left empty dar in der brick vault. 
+And Mr. Ivey took der place 
+and all Mr. Jakey's money an' made big craps an' bought er lot of new niggers, an' den dar was high doin's in der big house, an' den in de midst of der feastin' an'
+drinkin' an sinnin' Mr. Ivey was done called ter his account. Oh, I remem- bers right well dat time an' der big funeral, an' der pall-bearers wid crape mourners what jes clear der ground - dem same mourners what I tole yer about-- an' dey open der vault an' put Mr. Ivey in erlong wid Mr. Jakey's empty coffin,but bless yer, chile, der devil wouldn't let Mr. Ivey rest dar while his brother's'mains was a-bleachin'out in der sun an' rain, so he was jes natch'ly sont down in der swamp ter find Mr. Jakey's poor ole bones, an' dar he hunts an' hunts wid a lighted pine knot, all in ermong der cypress knees. Unc' Jim he's done seed him lots er times when he's been runnin'derdrainwheeldarkrainynights. Yes,he's doneseedhim a-tearin'an' a-lopin'over dem ridges, his pine knot a blazin' an' a flamin' spite of der rain, an' he can't stop nor rest kase he 's druv all der time by dem bad sperits following him an' tormentin'him.
+Dem trashy young niggers do say as how dat light dancin' an' bobbin' in der swamp 'round der drainin'wheel an' un'er de ole oak is er Jack- lantern- but me an' Unc' Jim, we knows it's Mr. Ivey a-huntin'fer Mr.
+Jakey's bones
