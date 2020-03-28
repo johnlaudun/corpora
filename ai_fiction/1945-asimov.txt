@@ -1,0 +1,286 @@
+Escape! 
+Isaac Asimov
+1946
+
+WHEN SUSAN CALVIN RETURNED FROM HYPER BASE, Alfred Tanning was waiting for her. The old man never spoke about his age, but everyone knew it to be over seventy-five. Yet his mind was keen, and if he had finally allowed himself to be made Director-Emeritus of Research with Bogert as acting Director, it did not prevent him from appearing in his office daily. 
+“How close are they to the Hyperatomic Drive?” he asked. “I don’t know,” she replied irritably, “I didn’t ask.” 
+“Hmm. I wish they’d hurry. Because if they don’t, Consolidated might beat them to it, and beat us to it as well.” 
+“Consolidated. What have they got to do with it?” 
+“Well, we’re not the only ones with calculating machines. Ours may be positronic, but that doesn’t mean they’re better. Robertson is calling a big meeting about it tomorrow. He’s been waiting for you to come back.” 
+Robertson of U. S. Robot & Mechanical Men Corporation, son of the founder, pointed his lean nose at his general manager and his Adam’s apple jumped as he said, “You start now. Let’s get this straight.” 
+The general manager did so with alacrity, “Here’s the deal now, chief. Consolidated Robots approached us a month ago with a funny sort of proposition. They brought about five tons of figures, equations, all that sort of stuff. It was a problem, see, and they wanted an answer from The Brain. The terms were as follows–” 
+He ticked them off on thick fingers: “A hundred thousand for us if there is no solution and we can tell them the missing factors. Two hundred thousand if there is a solution, plus costs of construction of the machine involved, plus quarter interest in all profits derived therefrom. The problem concerns the development of an interstellar engine–” 
+Robertson frowned and his lean figure stiffened, “Despite the fact that they have a thinking machine of their own. Right?” 
+“Exactly what makes the whole proposition a foul ball, chief? Levver, take it from there.” 
+Abe Levver looked up from the far end of the conference table and smoothed his stubbled chin with a faint rasping sound. He smiled: 
+“It’s this way, sir. Consolidated had a thinking machine. It’s broken.” “What?” Robertson half rose. 
+“That’s right. Broken! It’s kaput. Nobody knows why, but I got hold of some pretty interesting guesses — like, for instance, that they asked it to give them an interstellar engine with the same set of information they came to us with, and that it cracked their machine wide open. It’s scrap — just scrap now.” 
+“You get it, chief?” The general manager was wildly jubilant. “You get it? There isn’t any industrial research group of any size that isn’t trying to develop a space-warp engine, and Consolidated and U. S. Robots have the lead on the field with our super robot-brains. Now that they’ve managed to foul theirs up, we have a clear field. That’s the nub, the... uh... motivation. It will take them six years at least to build another and they’re sunk, unless they can break ours, too, with the same problem.” 
+The president of U. S. Robots bulged his eyes, “Why, the dirty rats–” “Hold on, chief. There’s more to this.” He pointed a finger with a wide sweep, “Lanning, take it!” 
+Dr. Alfred Lanning viewed the proceedings with faint scorn — his usual reaction to the doings of the vastly better-paid business and sales divisions. His unbelievable gray eyebrows hunched low and his voice was dry: 
+“From a scientific standpoint the situation, while not entirely clear, is subject to intelligent analysis. The question of interstellar travel under present conditions of physical theory is... uh... vague. The matter is wide open — and the information given by Consolidated to its thinking machine, assuming these we have to be the same, was similarly wide open. Our mathematical department has given it a thorough analysis, and it seems Consolidated has included everything. Its material for submission contains all known developments of Franciacci’s space-warp theory, and, apparently, all pertinent astrophysical and electronic data. It’s quite a mouthful.” 
+Robertson followed anxiously. He interrupted, “Too much for The Brain to handle?” 
+Lanning shook his head decisively, “No. There are no known limits to The Brain’s capacity. It’s a different matter. It’s a question of the Robotic Laws. The Brain, for instance, could never supply a solution to a problem set to it if that solution, would involve the death or injury of humans. As far as it would be concerned, a problem with only such a solution would be insoluble. If such a problem is combined with an extremely urgent demand that it be answered, it is just possible that The Brain, only a robot after all, would be presented with a dilemma, where it could neither answer nor refuse to answer. Something of the sort must have happened to Consolidated’s machine.” 
+He paused, but the general manager urged on, “Go ahead, Dr. Tanning. Explain it the way you explained it to me.” 
+Lanning set his lips and raised his eyebrows in the direction of Dr. Susan Calvin who lifted her eyes from her precisely folded hands for the first time. Her voice was low and colorless. 
+“The nature of a robot reaction to a dilemma is startling,” she began. “Robot psychology is far from perfect — as a specialist, I can assure you of that but it can be discussed in qualitative terms, because with all the complications introduced into a robot’s positronic brain, it is built by humans and is therefore built according to human values. 
+“Now a human caught in an impossibility often responds by a retreat from reality: by entry into a world of delusion, or by taking to drink, going off into hysteria, or jumping off a bridge. It all comes to the same thing — a refusal or inability to face the situation squarely. And so, the robot, a dilemma at its mildest will disorder half its relays; and at its worst it will burn out every positronic brain path past repair.” 
+“I see,” said Robertson, who didn’t. “Now what about this information Consolidated’s wishing on us?” 
+“It undoubtedly involves,” said Dr. Calvin, “a problem of a forbidden sort. But The Brain is considerably different from Consolidated’s robot.” 
+“That’s right, chief. That’s right.” The general manager was energetically interruptive. “I want you to get this, because it’s the whole point of the situation.” 
+Susan Calvin’s eyes glittered behind the spectacles, and she continued patiently, “You see, sir, Consolidated’s machines, their Super-Thinker among them, are built without personality. They go in for functionalism, you know — they have to, without U. S. Robot’s basic patents for the emotional brain paths. Their Thinker is merely a calculating machine on a grand scale, and a dilemma ruins it instantly. 
+“However, The Brain, our own machine, has a personality — a child’s personality. It is a supremely deductive brain, but it resembles an idiot savant. It doesn’t really understand what it does — it just does it. And because it is really a child, it is more resilient. Life isn’t so serious, you might say.” 
+The robopsychologist continued: “Here is what we’re going to do. We have divided all of Consolidated’s information into logical units. We are going to feed the units to The Brain singly and cautiously. When the factor enters — the one that creates the dilemma — The Brain’s child personality will hesitate. Its sense of judgment is not mature. There will be a perceptible interval before it will recognize a dilemma as such. And in that interval, it will reject the unit automatically — before its brainpaths can be set in motion and ruined.” 
+Robertson’s Adam’s apple squirmed, “Are you sure, now?” 
+Dr. Calvin masked impatience, “It doesn’t make much sense, I admit, in lay language; but there is no conceivable use in presenting the mathematics of this. I assure you, it is as I say.” 
+The general manager was in the breach instantly and fluently, “So here’s the situation, chief. If we take the deal, we can put it through like this. The Brain will tell us which unit of information involves the dilemma. From there, we can figure why the dilemma. Isn’t that right, Dr. Bogert? There you are, chief, and Dr. Bogert is the best mathematician you’ll find anywhere. We give Consolidated a ‘No Solution’ answer, with the reason, and collect a hundred thousand. They’re left with a broken machine; we’re left with a whole one. In a year, two maybe, we’ll have a space-warp engine or a hyper-atomic motor some people call it. Whatever you name it, it will be the biggest thing in the world.” 
+Robertson chuckled and reached out, “Let’s see the contract. I’ll sign it.” 
+When Susan Calvin entered the fantastically guarded vault that held The Brain, one of the current shift of technicians had just asked it: “If one and a half chickens lay one and a half eggs in one and a half days, how many eggs will nine chickens lay in nine days?” 
+The Brain had just answered, “Fifty-four.” And the technician had just said to another, “See, you dope!” 
+Dr. Calvin coughed and there was a sudden impossible flurry of directionless energy. The psychologist motioned briefly, and she was alone with The Brain. 
+The Brain was a two-foot globe merely — one which contained within it a thoroughly conditioned helium atmosphere, a volume of space completely vibration-absent and radiation-free — and within that was that unheard-of complexity of positronic brain-paths that was The Brain. The rest of the room was crowded with the attachments that were the intermediaries between The Brain and the outside world — its voice, its arms, its sense organs. 
+Dr. Calvin said softly, “How are you, Brain?” 
+The Brain’s voice was high-pitched and enthusiastic, “Swell, Miss Susan. You’re going to ask me something. I can tell. You always have a book in your hand when you’re going to ask me something.” 
+Dr. Calvin smiled mildly, “Well, you’re right, but not just yet. This is going to be a question. It will be so complicated we’re going to give it to you in writing. But not just yet; I think I’ll talk to you first.” 
+“All right. I don’t mind talking.” 
+“Now, Brain, in a little while, Dr. Lanning and Dr. Bogert will be here with this complicated question. We’ll give it to you a very little at a time and very slowly, because we want you to be careful. We’re going to ask you to build something, if you can, out of the information, but I’m going to warn you now that the solution might involve... uh... damage to human beings.” 
+“Gosh!” The exclamation was hushed, drawn-out. 
+“Now you watch for that. When we come to a sheet which means damage, even maybe death, don’t get excited. You see, Brain, in this case, we don’t mind — not even about death; we don’t mind at all. So when you come to that sheet, just stop, give it back — and that’ll be all. You understand?” 
+“Oh, sure. By golly, the death of humans! Oh, my!” 
+“Now, Brain, I hear Dr. Lanning and Dr. Bogert coming. They’ll tell you what the problem is all about and then we’ll start. Be a good boy, now–” 
+Slowly the sheets were fed in. After each one came the interval of the queerly whispery chuckling noise that was The Brain in action. Then the silence that meant readiness for another sheet. It was a matter of hours — during which the equivalent of something like seventeen fat volumes of mathematical physics were fed into The Brain. 
+As the process went on, frowns appeared and deepened. Lanning muttered ferociously under his breath. Bogert first gazed speculatively at his fingernails, and then bit at them in abstracted fashion. It was when the last of the thick pile of sheets disappeared that Calvin, white-faced, said: 
+“Something’s wrong.” 
+Lanning barely got the words out, “It can’t be. Is it — dead?” 
+“Brain?” Susan Calvin was trembling. “Do you hear me, Brain?” 
+“Huh?” came the abstracted rejoinder. “Do you want me?” 
+“The solution—” 
+“Oh, that! I can do it. I’ll build you a whole ship, just as easy — if you let me have the robots. A nice ship, it’ll take two months maybe.” 
+“There was — no difficulty?” “It took long to figure,” said The Brain. 
+Dr. Calvin backed away. The color had not returned to her thin cheeks. She motioned the others away. 
+In her office, she said, “I can’t understand it. The information, as given, must involve a dilemma — probably involves death. If something has gone wrong—” Bogert said quietly, “The machine talks and makes sense. It can’t be a dilemma.” 
+But the psychologist replied urgently, “There are dilemmas and dilemmas. There are different forms of escape. Suppose The Brain is only mildly caught; just badly enough, say, to be suffering from the delusion that he can solve the problem, when he can’t. Or suppose it’s teetering on the brink of something really bad, so that any small push shoves it over.” 
+“Suppose,” said Lanning, “there is no dilemma. Suppose Consolidated’s machine broke down over a different question, or broke down for purely mechanical reasons.” 
+“But even so,” insisted Calvin, “we couldn’t take chances. Listen, from now on, no one is to as much as breathe to The Brain. I’m taking over.” 
+“All right,” sighed Lanning, “take over, then. And meanwhile we’ll let The Brain build its ship. And if it does build it, we’ll have to test it.” 
+He was ruminating, “We’ll need our top field men for that.” 
+Michael Donovan brushed down his red hair with a violent motion of his hand and a total indifference to the fact that the unruly mass sprang to attention again immediately. 
+He said, “Call the turn now, Greg. They say the ship is finished. They don’t know what it is, but it’s finished. Let’s go, Greg. Let’s grab the controls right now.” 
+Powell said wearily, “Cut it, Mike. There’s a peculiar overripe flavor to your humor at its freshest, and the confined atmosphere here isn’t helping it.” 
+“Well, listen,” Donovan took another ineffectual swipe at his hair, “I’m not worried so much about our cast-iron genius and his tin ship. There’s the matter of my lost leave. And the monotony! There’s nothing here but whiskers and figures — the wrong kind of figures. Oh, why do they give us these jobs?” 
+“Because,” replied Powell, gently, “we’re no loss, if they lose us. O.K., relax! — Doc Lanning’s coming this way.” 
+Lanning was coming, his gray eyebrows as lavish as ever, his aged figure unbent as yet and full of life. He walked silently up the ramp with the two men and out into the open field, where, obeying no human master, silent robots were building a ship. 
+Wrong tense. Had built a ship! 
+For Lanning said, “The robots have stopped. Not one has moved today.” 
+“It’s completed then? Definitely?” asked Powell. 
+“Now how can I tell?” Lanning was peevish, and his eyebrows curled down in an eye-hiding frown. “It seems done. There are no spare pieces about, and the interior is down to a gleaming finish.” 
+“You’ve been inside?” 
+“Just in, then out. I’m no space-pilot. Either of you two know much about engine theory?” 
+Donovan looked at Powell, who looked at Donovan. 
+Donovan said, “I’ve got my license, sir, but at last reading it didn’t say anything about hyper- engines or warp-navigation. Just the usual child’s play in three dimensions.” 
+Alfred Lanning looked up with sharp disapproval and snorted the length of his prominent nose.
+He said frigidly, “Well, we have our engine men.” Powell caught at his elbow as he walked away, “Sir, is the ship still restricted ground?” 
+The old director hesitated, then rubbed the bridge of his nose, “I suppose not. For you two anyway.” 
+Donovan looked after him as he left and muttered a short, expressive phrase at his back. He turned to Powell, “I’d like to give him a literary description of himself, Greg.” 
+“Suppose you come along, Mike.” 
+The inside of the ship was finished, as finished as a ship ever was; that could be told in a single eye-blinking glance. No martinet in the system could have put as much spit-and-polish into a surface as those robots had. The walls were of a gleaming silvery finish that retained no fingerprints. 
+There were no angles; walls, floors, and ceiling faded gently into each other and in the cold, metallic glittering of the hidden lights, one was surrounded by six chilly reflections of one’s bewildered self. 
+The main corridor was a narrow tunnel that led in a hard, clatter-footed stretch along a line of rooms of no interdistinguishing features. 
+Powell said, “I suppose furniture is built into the wall. Or maybe we’re not supposed to sit or sleep.” 
+It was in the last room, the one nearest the nose, that the monotony broke. A curving window of non-reflecting glass was the first break in the universal metal, and below it was a single large dial, with a single motionless needle hard against the zero mark. 
+Donovan said, “Look at that!” and pointed to the single word on the finely-marked scale. 
+It said, “Parsecs” and the tiny figure at the right end of the curving, graduated meter said “1,000,000.” 
+There were two chairs; heavy, wide-flaring, uncushioned. Powell seated himself gingerly, and found it molded to the body’s curves, and comfortable. 
+Powell said, “What do you think of it?” “For my money, The Brain has brain-fever. Let’s get out.” “Sure you don’t want to look it over a bit?” 
+“I have looked it over. I came, I saw, I’m through!” Donovan’s red hair bristled into separate wires, “Greg, let’s get out of here. I quit my job five seconds ago, and this is a restricted area for non- personnel.” 
+Powell smiled in an oily self-satisfied manner and smoothed his mustache, “O.K., Mike, turn off that adrenalin tap you’ve got draining into your bloodstream. I was worried, too, but no more.” 
+“No more, huh? How come, no more? Increased your insurance?” “Mike, this ship can’t fly.” “How do you know?” 
+“Well, we’ve been through the entire ship, haven’t we?” “Seems so.” 
+“Take my word for it, we have. Did you see any pilot room except for this one port and the one gauge here in parsecs? Did you see any controls?” 
+“No.” 
+“And did you see any engines?” 
+“Holy Joe, no!” 
+“Well, then! Let’s break the news to Lanning, Mike.” 
+They cursed their way through the featureless corridors and finally hit-and-missed their way into the short passage to the air lock. 
+Donovan stiffened, “Did you lock this thing, Greg?” 
+“No, I never touched it. Yank the lever, will you?” 
+The lever never budged, though Donovan’s face twisted appallingly with exertion. 
+Powell said, “I didn’t see any emergency exits. If something’s gone wrong here, they’ll have to melt us out.” 
+“Yes, and we’ve got to wait until they find out that some fool has locked us in here,” added Donovan, frantically. 
+“Let’s get back to the room with the port. It’s the only place from which we might attract attention.” 
+But they didn’t. 
+In that last room, the port was no longer blue and full of sky. It was black, and hard yellow pin- point stars spelled space. 
+There was a dull, double thud, as two bodies collapsed separately into two chairs. Alfred Lanning met Dr. Calvin just outside his office. He lit a nervous cigar and motioned her in. 
+He said, “Well, Susan, we’ve come pretty far, and Robertson’s getting jumpy. What are you doing with The Brain?” 
+Susan Calvin spread her hands, “It’s no use getting impatient. The Brain is worth more than anything we forfeit on this deal.” 
+“But you’ve been questioning it for two months.” The psychologist’s voice was flat, but somehow dangerous, “You would rather run this yourself?” “Now you know what I meant.” 
+“Oh, I suppose I do,” Dr. Calvin rubbed her hands nervously. “It isn’t easy. I’ve been pampering it and probing it gently, and I haven’t gotten anywhere yet. Its’ reactions aren’t normal. Its answers — they’re queer, somehow. But nothing I can put my finger on yet. And you see, until we know what’s wrong, we must just tiptoe our way through. I can never tell what simple question or remark will just … push him over … and then — Well, and then we’ll have on our hands a completely useless Brain. Do you want to face that?” 
+“Well, it can’t break the First Law.” 
+“I would have thought so, but–” 
+“You’re not even sure of that?” Lanning was profoundly shocked. 
+“Oh, I can’t be sure of anything, Alfred–” 
+The alarm system raised its fearful clangor with a horrifying suddenness. Lanning clicked on communications with an almost paralytic spasm. The breathless words froze him. 
+He said, “Susan... you heard that... the ship’s gone. I sent those two field men inside half an hour ago. You’ll have to see The Brain again.” 
+Susan Calvin said with enforced calm, “Brain, what happened to the ship?” 
+The Brain said happily, “The ship I built, Miss Susan?” 
+“That’s right. What has happened to it?” 
+“Why, nothing at all. The two men that were supposed to test it were inside, and we were all set. So I sent it off.” 
+“Oh — Well, that’s nice.” The psychologist felt some difficulty in breathing. “Do you think they’ll be all right?” 
+“Right as anything, Miss Susan. I’ve taken care of it all. It’s a bee-yootiful ship.” 
+“Yes, Brain, it is beautiful, but you think they have enough food, don’t you? They’ll be comfortable?” 
+“Plenty of food.” 
+“This business might be a shock to them, Brain. Unexpected, you know.” 
+The Brain tossed it off, “They’ll be all right. It ought to be interesting for them.” 
+“Interesting? How?” 
+“Just interesting,” said The Brain, slyly. 
+“Susan,” whispered Lanning in a fuming whisper, “ask him if death comes into it. Ask him what the dangers are.” 
+Susan Calvin’s expression contorted with fury, “Keep quiet!” In a shaken voice, she said to The Brain, “We can communicate with the ship, can’t we Brain?” 
+“Oh, they can hear you if you call by radio. I’ve taken care of that.” 
+“Thanks. That’s all for now.” 
+Once outside, Lanning lashed out ragingly, “Great Galaxy, Susan, if this gets out, it will ruin all of us. We’ve got to get those men back. Why didn’t you ask it if there was danger of death — straight out?” 
+“Because,” said Calvin, with a weary frustration, “that’s just what I can’t mention. If it’s got a case of dilemma, it’s about death. Anything that would bring it up badly might knock it completely out. Will we be better off then? Now, look, it said we could communicate with them. Let’s do so, get their location, and bring them back. They probably can’t use the controls themselves; The Brain is probably handling them remotely. Come!” 
+It was quite a while before Powell shook himself together. 
+“Mike,” he said, out of cold lips, “did you feel an acceleration?” 
+Donovan’s eyes were blank, “Huh? No... no.” 
+And then the redhead’s fists clenched and he was out of his seat with sudden frenzied energy and up against the cold, wide-curving glass. There was nothing to see — but stars. 
+He turned, “Greg, they must have started the machine while we were inside. Greg, it’s a put-up job; they fixed it up with the robot to jerry us into being the try-out boys, in case we were thinking of backing out.” 
+Powell said, “What are you talking about? What’s the good of sending us out if we don’t know how to run the machine? How are we supposed to bring it back? No, this ship left by itself, and without any apparent acceleration.” He rose, and walked the floor slowly. The metal walls dinned back the clangor of his steps. 
+He said tonelessly, “Mike, this is the most confusing situation we’ve ever been up against.” 
+“That,” said Donovan, bitterly, “is news to me. I was just beginning to have a very swell time, when you told me.” 
+Powell ignored that. “No acceleration — which means the ship works on a principle different from any known.” 
+“Different from any we know, anyway.” 
+“Different from any known. There are no engines within reach of manual control. Maybe they’re built into the walls. Maybe that’s why they’re thick as they are.” 
+“What are you mumbling about?” demanded Donovan. 
+“Why not listen? I’m saying that whatever powers this ship is enclosed, and evidently not meant to be handled. The ship is running by remote control.” 
+“The Brain’s control?” 
+“Why not?” 
+“Then you think we’ll stay out here till The Brain brings us back.” 
+“It could be. If so, let’s wait quietly. The Brain is a robot. It’s got to follow the First Law. It can’t hurt a human being.” 
+Donovan sat down slowly, “You figure that?” Carefully, he flattened his hair, “Listen, this junk about the space-warp knocked out Consolidated’s robot, and the longhairs said it was because interstellar travel killed humans. Which robot are you going to trust? Ours had the same data, I understand.” 
+Powell was yanking madly at his mustache, “Don’t pretend you don’t know your robotics, Mike. Before it’s physically possible in any way for a robot to even make a start to breaking the First Law, so many things have to break down that it would be a ruined mess of scrap ten times over. There’s some simple explanation to this.” 
+“Oh sure, sure. Just have the butler call me in the morning. It’s all just too, too simple for me to bother about before my beauty nap.” 
+“Well, Jupiter, Mike, what are you complaining about so far? The Brain is taking care of us. This place is warm. It’s got light. It’s got air. There wasn’t even enough of an acceleration jar to muss your hair if it were smooth enough to be mussable in the first place.” 
+“Yeah? Greg, you must’ve taken lessons. No one could put Pollyanna that far out of the running without. What do we eat? What do we drink? Where are we? How do we get back? And in case of accident, to what exit and in what spacesuit do we run, not walk? I haven’t even seen a bathroom in the place, or those little conveniences that go along with bathrooms. Sure, we’re being taken care of — but good?” 
+The voice that interrupted Donovan’s tirade was not Powell’s. It was nobody’s. It was there, hanging in open air — stentorian and petrifying in its effects. 
+“GREGORY POWELL! MICHAEL DONOVAN! GREGORY POWELL! MICHAEL DONOVAN! PLEASE REPORT YOUR PRESENT POSITIONS. IF YOUR SHIP ANSWERS CONTROLS, PLEASE RETURN TO BASE. GREGORY POWELL! MICHAEL DONOVAN! –” 
+The message was repetitious, mechanical, broken by regular, untiring intervals. Donovan said, “Where’s it coming from?” 
+“I don’t know.” Powell’s voice was an intense whisper, “Where do the lights come from? Where does anything come from?” 
+“Well, how are we going to answer?” They had to speak in the intervals between the loudly echoing, repeating message. 
+The walls were bare — as bare and as unbroken as smooth, curving metal can be. Powell said, “Shout an answer.” 
+They did. They shouted, in turns, and together, “Position unknown! Ship out of control! Condition desperate!” 
+Their voices rose and cracked. The short businesslike sentences became interlarded and adulterated with screaming and emphatic profanity, but the cold, calling voice repeated and repeated and repeated unwearyingly. 
+“They don’t hear us,” gasped Donovan. “There’s no sending mechanism. Just a receiver.” His eyes focused blindly at a random spot on the wall. 
+Slowly the din of the outside voice softened and receded. They called again when it was a whisper, and they called again, hoarsely, when there was silence. 
+Something like fifteen minutes later, Powell said lifelessly, “Let’s go through the ship again. There must be something to eat somewheres.” He did not sound hopeful. It was almost an admission of defeat. 
+They divided in the corridor to the right and left. They could follow one another by the hard footsteps resounding, and they met occasionally in the corridor, where they would glare at each other and pass on. 
+Powell’s search ended suddenly and as it did, he heard Donovan’s glad voice rise boomingly. “Hey, Greg,” it howled, “The ship has got plumbing. How did we miss it?” 
+It was some five minutes later that he found Powell by hit-and-miss. He was saying, “Still no shower baths, though,” but it got choked off in the middle. 
+“Food,” he gasped. 
+The wall had dropped away, leaving a curved gap with two shelves. The upper shelf was loaded with unlabeled cans of a bewildering variety of sizes and shapes. The enameled cans on the lower shelf were uniform and Donovan felt a cold draft about his ankles. The lower half was refrigerated. 
+“How... how–” 
+“It wasn’t there, before,” said Powell, curtly. “That wall section dropped out of sight as I came in the door.” 
+He was eating. The can was the preheating type with enclosed spoon and the warm odor of baked beans filled the room. “Grab a can, Mike!” 
+Donovan hesitated, “What’s the menu?” “How do I know! Are you finicky?” 
+“No, but all I eat on ships are beans. Something else would be first choice.” His hand hovered and selected a shining elliptical can whose flatness seemed reminiscent of salmon or similar delicacy. It opened at the proper pressure. 
+“Beans!” howled Donovan, and reached for another. Powell hauled at the slack of his pants. “Better eat that, sonny boy. Supplies are limited and we may be here a long, long time.” 
+Donovan drew back sulkily, “Is that all we have? Beans?” “Could be.” “What’s on the lower shelf?” “Milk.” 
+“Just milk?” Donovan cried in outrage. “Looks it.” 
+The meal of beans and milk was carried through in silence, and as they left, the strip of hidden wall rose up and formed an unbroken surface once more. 
+Powell sighed, “Everything automatic. Everything just so. Never felt so helpless in my life. Where’s your plumbing?” 
+“Right there. And that wasn’t among those present when we first looked, either.” 
+Fifteen minutes later they were back in the glassed-in room, staring at each other from opposing seats. 
+Powell looked gloomily at the one gauge in the room. It still said “parsecs,” the figures still ended in “1,000,000” and the indicating needle was still pressed hard against the zero mark. 
+In the innermost offices of the U. S. Robot & Mechanical Men Corp. Alfred Lanning was saying wearily, “They won’t answer. We’ve tried every wavelength, public, private, coded, straight, even this subether stuff they have now. And The Brain still won’t say anything?” He shot this at Dr. Calvin. 
+“It won’t amplify on the matter, Alfred,” she said, emphatically. “It says they can hear us... and when I try to press it, it becomes... well, it becomes sullen. And it’s not supposed to — whoever heard of a sullen robot?” 
+“Suppose you tell us what you have, Susan,” said Bogert. 
+“Here it is! It admits it controls the ship itself entirely. It is definitely optimistic about their safety, but without details. I don’t dare press it. However, the center of disturbance seems to be about the interstellar jump itself. The Brain definitely laughed when I brought up the subject. There are other indications, but that is the closest it’s come to an open abnormality.” 
+She looked at the others, “I refer to hysteria. I dropped the subject immediately, and I hope I did no harm, but it gave me a lead. I can handle hysteria. Give me twelve hours! If I can bring it back to normal, it will bring back the ship.” 
+Bogert seemed suddenly stricken. “The interstellar jump!” “What’s the matter?” The cry was double from Calvin and Lanning. “The figures for the engine The Brain gave us. Say... I just thought of something.” He left hurriedly. Lanning gazed after him. He said brusquely to Calvin, “You take care of your end, Susan.” 
+Two hours later, Bogert was talking eagerly, “I tell you, Lanning, that’s it. The interstellar jump is not instantaneous not as long as the speed of light is finite. Life can’t exist... matter and energy as such can’t exist in the space warp. I don’t know what it would be like — but that’s it. That’s what killed Consolidated’s robot.” 
+Donovan felt as haggard as he looked. “Only five days?” “Only five days. I’m sure of it.” 
+Donovan looked about him wretchedly. The stars through the glass were familiar but infinitely indifferent. The walls were cold to the touch; the lights, which had recently flared up again, were unfeelingly bright; the needle on the gauge pointed stubbornly to zero; and Donovan could not get rid of the taste of beans. 
+He said, morosely, “I need a bath.” 
+Powell looked up briefly, and said, “So do I. You needn’t feel self-conscious. But unless you want to bathe in milk and do without drinking” 
+“We’ll do without drinking eventually, anyway. Greg, where does this interstellar travel come in?’ 
+“You tell me. Maybe we just keep on going. We’d get there, eventually. At least the dust of our skeletons would — but isn’t our death the whole point of The Brain’s original breakdown?” 
+Donovan spoke with his back to the other, “Greg, I’ve been thinking. It’s pretty bad. There’s not much to do — except walk around or talk to yourself. You know those stories about guys marooned in space. They go nuts long before they starve. I don’t know, Greg, but ever since the lights went on, I feel funny.” 
+There was a silence, then Powell’s voice came thin and small, “So do I. What’s it like?” 
+The redheaded figure turned, “Feel funny inside. There’s a pounding in me with everything tense. It’s hard to breathe. I can’t stand still.” 
+“Um-m-m. Do you feel vibration?” “How do you mean?” 
+“Sit down for a minute and listen. You don’t hear it, but you feel it — as if something’s throbbing somewheres and it’s throbbing the whole ship, and you, too, along with it. Listen–” 
+“Yeah . . . yeah. What do you think it is, Greg? You don’t suppose it’s us?” 
+“It might be.” Powell stroked his mustache slowly. “But it might be the ship’s engines. It might be getting ready.” 
+“For what?” “For the interstellar jump. It may be coming and the devil knows what it’s like.” 
+Donovan pondered. Then he said, savagely, “If it does, let it. But I wish we could fight. It’s humiliating to have to wait for it.” 
+An hour later, perhaps, Powell looked at his hand on the metal chair-arm and said with frozen calm, “Feel the wall, Mike.” 
+Donovan did, and said, “You can feel it shake, Greg.” 
+Even the stars seemed blurred. From somewhere came the vague impression of a huge machine gathering power with the walls, storing up energy for a mighty leap, throbbing its way up the scales of strength. 
+It came with a suddenness and a stab of pain. Powell stiffened, and half-jerked from his chair. His sight caught Donovan and blanked out while Donovan’s thin shout whimpered and died in his ears. Something writhed within him and struggled against a growing blanket of ice, that thickened. 
+Something broke loose and whirled in a blaze of flickering light and pain. It fell — and whirled and fell headlong into silence! 
+It was death! 
+It was a world of no motion and no sensation. A world of dim, unsensing consciousness; a consciousness of darkness and of silence and of formless struggle. 
+Most of all a consciousness of eternity. He was a tiny white thread of ego — cold and afraid. Then the words came, unctuous and sonorous, thundering over him in a foam of sound: 
+“Does your coffin fit differently lately? Why not try Morbid M. Cadaver’s extensible caskets? They are scientifically designed to fit the natural curves of the body, and are enriched with Vitamin B1. Use Cadaver’s caskets for comfort. Remember – you’re – going – to – be – dead – a – long – long – time!”
+It wasn’t quite sound, but whatever it was, it died away in an oily rumbling whisper. 
+The white thread that might have been Powell heaved uselessly at the insubstantial eons of time that existed all about him — and collapsed upon itself as the piercing shriek of a hundred million ghosts of a hundred million soprano voices rose to a crescendo of melody: 
+“I’ll be glad when you’re dead, you rascal, you. 
+“I’ll be glad when you’re dead, you rascal, you. 
+“I’ll be glad–” 
+It rose up a spiral stairway of violent sound into the keening supersonics that passed hearing, and then beyond– 
+The white thread quivered with a pulsating pang. It strained quietly– 
+The voices were ordinary — and many. It was a crowd speaking; a swirling mob that swept through and past and over him with a rapid, headlong motion, that left drifting tatters of words behind them. 
+“What did they getcha for, boy? Y’look banged up–” “—A hot fire, I guess, but I got a case–” “—I’ve made Paradise, but old St. Pete–” “Naaah, I got a pull with the boy. Had dealings with him–” “Hey, Sam, come this way–” 
+“Ja get a mouthpiece? Beelzebub says–” “—Going on, my good imp? My appointment is with Sa–” And above it all the original stentorian roar, that plunged across all: 
+“HURRY! HURRY! HURRY!!! Stir your bones, and don’t keep us waiting — there are many more in line. Have your certificates ready, and make sure Peter’s release is stamped across it. See if you are at the proper entrance gate. There will be plenty of fire for all. Hey, you — YOU DOWN THERE. TAKE YOUR PLACE IN LINE OR–” 
+The white thread that was Powell groveled backward before the advancing shout, and felt the sharp stab of the pointing finger. It all exploded into a rainbow of sound that dripped its fragments onto an aching brain. 
+Powell was in the chair, again. He felt himself shaking. 
+Donovan’s eyes were opening into two large popping bowls of glazed blue. 
+“Greg,” he whispered in what was almost a sob. “Were you dead?” 
+“I... felt dead.” He did not recognize his own croak. 
+Donovan was obviously making a bad failure of his attempt to stand up, “Are we alive now? Or is there more?” 
+“I... feel alive.” It was the same hoarseness. Powell said cautiously, “Did you... hear anything, when... when you were dead?” 
+Donovan paused, and then very slowly nodded his head, “Did you?”
+“Yes. Did you hear about coffins... and females singing... and the lines forming to get into Hell? Did you?” 
+Donovan shook his head, “Just one voice.” “Loud?” 
+“No. Soft, but rough like a file over the fingertips. It was a sermon, you know. About hell-fire. He described the tortures of... well, you know. I once heard a sermon like that — almost.” 
+He was perspiring. 
+They were conscious of sunlight through the port. It was weak, but it was blue-white — and the gleaming pea that was the distant source of light was not Old Sol. 
+And Powell pointed a trembling finger at the single gauge. The needle stood stiff and proud at the hairline whose figure read 300,000 parsecs. 
+Powell said, “Mike if it’s true, we must be out of the Galaxy altogether.” Donovan said, “Blazed Greg! We’d be the first men out of the Solar System.” 
+“Yes! That’s just it. We’ve escaped the sun. We’ve escaped the Galaxy. Mike, this ship is the answer. It means freedom for all humanity — freedom to spread through to every star that exists — millions and billions and trillions of them.” 
+And then he came down with a hard thud, “But how do we get back, Mike?” 
+Donovan smiled shakily, “Oh, that’s all right. The ship brought us here. The ship will take us back. Me for more beans.” 
+“But Mike... hold on, Mike. If it takes us back the way it brought us here–” 
+Donovan stopped halfway up and sat back heavily into the chair. 
+Powell went on, “We’ll have to... die again, Mike” 
+“Well,” sighed Donovan, “if we have to, we have to. At least it isn’t permanent, not very permanent.” 
+Susan Calvin was speaking slowly now. For six hours she had been slowly prodding The Brain — for six fruitless hours. She was weary of repetitions, weary of circumlocutions, weary of everything. 
+“Now, Brain, there’s just one more thing. You must make a special effort to answer simply. Have you been entirely clear about the interstellar jump? I mean does it take them very far?” 
+“As far as they want to go, Miss Susan. Golly, it isn’t any trick through the warp.” “And on the other side, what will they see?” “Stars and stuff. What do you suppose?” The next question slipped out, “They’ll be alive, then?” 
+“Sure!” “And the interstellar jump won’t hurt them?” She froze as The Brain maintained silence. That was it! She had touched the sore spot.
+“Brain,” she supplicated faintly, “Brain, do you hear me?” The answer was weak, quivering. The Brain said, “Do I have to answer? About the jump, I mean?” 
+“Not if you don’t want to. But it would be interesting — I mean if you wanted to.” Susan Calvin tried to be bright about it. 
+“Aw-w-w. You spoil everything.” And the psychologist jumped up suddenly, with a look of flaming insight on her face. “Oh, my,” she gasped. “Oh, my.” 
+And she felt the tension of hours and days released in a burst. It was later that she told Lanning, “I tell you it’s all right. No, you must leave me alone, now. The ship will be back safely, with the men, and I want to rest. I will rest. Now go away.” 
+The ship returned to Earth as silently, as unjarringly as it had left. It dropped precisely into place and the main lock gaped open. The two men who walked out felt their way carefully and scratched their rough and scrubbily-stubbled chins. 
+And then, slowly and purposefully, the one with red hair knelt down and planted upon the concrete of the runway a firm, loud kiss. 
+They waved aside the crowd that was gathering and made gestures of denial at the eager couple that had piled out of the down-swooping ambulance with a stretcher between them. 
+Gregory Powell said, “Where’s the nearest shower?” They were led away. 
+They were gathered, all of them, about a table. It was a full staff meeting of the brains of U. S. Robot & Mechanical Men Corp. 
+Slowly and climactically, Powell and Donovan finished a graphic and resounding story. 
+Susan Calvin broke the silence that followed. In the few days that had elapsed she had recovered her icy, somewhat acid, calm — but still a trace of embarrassment broke through. 
+“Strictly speaking,” she said, “this was my fault — all of it. When we first presented this problem to The Brain, as I hope some of you remember, I went to great lengths to impress upon it the importance of rejecting any item of information capable of creating a dilemma. In doing so I said something like ‘Don’t get excited about the death of humans. We don’t mind it at all. Just give the sheet back and forget it.’” 
+“Hm-m-m,” said Lanning. “What follows?” 
+“The obvious. When that item entered its calculations which yielded the equation controlling the length of minimum interval for the interstellar jump — it meant death for humans. That’s where Consolidated’s machine broke down completely. But I had depressed the importance of death to The Brain — not entirely, for the First Law can never be broken — but just sufficiently so that The Brain could take a second look at the equation. Sufficiently to give it time to realize that after the interval was passed through, the men would return to life — just as the matter and energy of the ship itself would return to being. This so-called ‘death,’ in other words, was a strictly temporary phenomenon. You see?” 
+She looked about her. They were all listening.
+She went on, “So he accepted the item, but not without a certain jar. Even with death temporary and its importance depressed, it was enough to unbalance him very gently.” 
+She brought it out calmly, “He developed a sense of humor — it’s an escape, you see, a method of partial escape from reality. He became a practical joker.” 
+Powell and Donovan were on their feet. “What?” cried Powell? Donovan was considerably more colorful about it. 
+“It’s so,” said Calvin. “He took care of you, and kept you safe, but you couldn’t handle any controls, because they weren’t for you — just for the humorous Brain. We could reach you by radio, but you couldn’t answer. You had plenty of food, but all of it beans and milk. Then you died, so to speak, and were reborn, but the period of your death was made... well... interesting. I wish I knew how he did it. It was The Brain’s prize joke, but he meant no harm.” 
+“No harm!” gasped Donovan. “Oh, if that cute little tyke only had a neck.” Lanning raised a quieting hand, “All right, it’s been a mess, but it’s all over. What now?” 
+“Well,” said Bogert, quietly, “obviously it’s up to us to improve the space-warp engine. There must be some way of getting around that interval of jump. If there is, we’re the only organization left with a grand-scale super-robot, so we’re bound to find it if anyone can. And then — U. S. Robots has interstellar travel, and humanity has the opportunity for galactic empire.” 
+“What about Consolidated?” said Lanning? 
+“Hey,” interrupted Donovan suddenly, “I want to make a suggestion there. They landed U. S. Robots into quite a mess. It wasn’t as bad a mess as they expected and it turned out well, but their intentions weren’t pious. And Greg and I bore the most of it. 
+“Well, they wanted an answer, and they’ve got one. Send them that ship, guaranteed, and U. S. Robots can collect their two hundred thou plus construction costs. And if they test it — then suppose we let The Brain have just a little more fun before it’s brought back to normal.” 
+Lanning said gravely, “It sounds just and proper to me.”
+To which Bogert added absently, “Strictly according to contract, too.”

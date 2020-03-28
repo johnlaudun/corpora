@@ -1,0 +1,1325 @@
+2003
+ 
+The Cookie Monster	
+Vernor Vinge
+
+Man is "the time-binding animal."
+But in the future, that simple
+statement may take on meanings
+that Korzybski never imagined. . . .
+
+"So how do you like the new job?"
+
+Dixie Mae looked up from her keyboard and spotted a pimply face peering at her from over the cubicle partition.
+
+"It beats flipping burgers, Victor," she said.
+
+Victor bounced up so his whole face was visible. "Yeah? It’s going to get old awfully fast."
+
+Actually, Dixie Mae felt the same way. But doing customer support at Lotsa-Tech was a real job, a foot in the door at the biggest high-tech company in the world. "Gimme a break, Victor! This is our first day." Well, it was the first day not counting the six days of product familiarization classes. "If you can’t take this, you’ve got the attention span of a cricket."
+
+"That’s a mark of intelligence, Dixie Mae. I’m smart enough to know what’s not worth the attention of a first-rate creative mind."
+
+Grr. "Then your first-rate creative mind is going to be out of its gourd by the end of the summer."
+
+Victor smirked. "Good point." He thought a second, then continued more quietly, "But see, um, I’m doing this to get material for my column in the Bruin. You know, big headlines like ‘The New Sweatshops’ or ‘Death by Boredom’. I haven’t decided whether to play it for laughs or go for heavy social consciousness. In any case," –- he lowered his voice another notch –- "I’m bailing out of here, um, by the end of next week, thus suffering only minimal brain damage from the whole sordid experience."
+
+"And you’re not seriously helping the customers at all, huh, Victor? Just giving them hilarious misdirections?"
+
+Victor’s eyebrows shot up. "I’ll have you know I’m being articulate and seriously helpful . . . at least for another day or two." The weasel grin crawled back onto his face. "I won’t start being Bastard Consultant from Hell till right before I quit."
+
+That figures. Dixie Mae turned back to her keyboard. "Okay, Victor. Meantime, how about letting me do the job I’m being paid for?"
+
+Silence. Angry, insulted silence? No, this was more a leering, undressing-you-with-my-eyes silence. But Dixie Mae did not look up. She could tolerate such silence as long as the leerer was out of arm’s reach.
+
+After a moment, there was the sound of Victor dropping back into his chair in the next cubicle.
+
+Ol’ Victor had been a pain in the neck from the get-go. He was slick with words; if he wanted to, he could explain things as good as anybody Dixie Mae had ever met. At the same time, he kept rubbing it in how educated he was and what a dead-end this customer support gig was. Mr. Johnson -– the guy running the familiarization course -– was a great teacher, but smart-ass Victor had tested the man’s patience all week long. Yeah, Victor really didn’t belong here, but not for the reasons he bragged about.
+
+It took Dixie Mae almost an hour to finish off seven more queries. One took some research, being a really bizarre question about Voxalot for Norwegian. Okay, this job would get old after a few days, but there was a virtuous feeling in helping people. And from Mr. Johnson’s lectures, she knew that as long as she got the reply turned in by closing time this evening, she could spend the whole afternoon researching just how to make LotsaTech’s vox program recognize Norwegian vowels.
+
+Dixie Mae had never done customer support before this; till she took Prof. Reich’s tests last week, her highest-paying job really had been flipping burgers. But like the world and your Aunt Sally, she had often been the victim of customer support. Dixie Mae would buy a new book or a cute dress, and it would break or wouldn’t fit–and then when she wrote customer support, they wouldn’t reply, or had useless canned answers, or just tried to sell her something more -– all the time talking about how their greatest goal was serving the customer.
+
+But now LotsaTech was turning all that around. Their top bosses had realized how important real humans were to helping real human customers. They were hiring hundreds and hundreds of people like Dixie Mae. They weren’t paying very much, and this first week had been kinda tough since they were all cooped up here during the crash intro classes.
+
+But Dixie Mae didn’t mind. "Lotsa-Tech is a lot of Tech." Before, she’d always thought that motto was stupid. But LotsaTech was big; it made IBM and Microsoft look like minnows. She’d been a little nervous about that, imagining that she’d end up in a room bigger than a football field with tiny office cubicles stretching away to the horizon. Well, Building 0994 did have tiny cubicles, but her team was just fifteen nice people –- leaving Victor aside for the moment. Their work floor had windows all the way around, a panoramic view of the Santa Monica mountains and the Los Angeles basin. And li’l ol’ Dixie Mae Leigh had her a desk right beside one of those wide windows! I’ll bet there are CEO’as who don’t have a view as good as mine. Here’s where you could see a little of what the Lotsa in LotsaTech meant. Just outside of B0994 there were tennis courts and a swimming pool. Dozens of similar buildings were scattered across the hillside. A golf course covered the next hill over, and more company land lay beyond that. These guys had the money to buy the top off Runyon Canyon and plunk themselves down on it. And this was just the LA branch office.
+
+Dixie Mae had grown up in Tarzana. On a clear day in the valley, you could see the Santa Monica mountains stretching off forever into the haze. They seemed beyond her reach, like something from a fairy tale. And now she was up here. Next week, she’d bring her binoculars to work, go over on the north slope, and maybe spot where her father still lived down there.
+
+Meanwhile, back to work. The next six queries were easy, from people who hadn’t even bothered to read the single page of directions that came with Voxalot. Letters like those would be hard to answer politely the thousandth time she saw them. But she would try–and today she practiced with cheerful specifics that stated the obvious and gently pointed the customers to where they could find more. Then came a couple of brain twisters. Damn. She wouldn’t be able to finish those today. Mr. Johnson said "finish anything you start on the same day"–but maybe he would let her work on those first thing Monday morning. She really wanted to do well on the hard ones. Every day, there would be the same old dumb questions. But there would also be hard new questions. And eventually she’d get really, really good with Voxalot. More important, she’d get good about managing questions and organization. So what that she’d screwed the last seven years of her life and never made it through college? Little by little she would improve herself, till a few years from now her past stupidities wouldn’t matter anymore. Some people had told her that such things weren’t possible nowadays, that you really needed the college degree. But people had always been able to make it with hard work. Back in the twentieth century, lots of steno pool people managed it. Dixie Mae figured customer support was pretty much the same kind of starting point.
+
+Nearby, somebody gave out a low whistle. Victor. Dixie Mae ignored him.
+
+"Dixie Mae, you gotta see this."
+
+Ignore him.
+
+"I swear Dixie, this is a first. How did you do it? I got an incoming query for you, by name! Well, almost."
+
+"What!? Forward it over here, Victor."
+
+"No. Come around and take a look. I have it right in front of me."
+
+Dixie Mae was too short to look over the partition. Jeez.
+
+Three steps took her into the corridor. Ulysse Green poked her head out of her cubicle, an inquisitive look on her face. Dixie Mae shrugged and rolled her eyes, and Ulysse returned to her work. The sound of fingers on keys was like occasional raindrops (no Voxalots allowed in cubicle-land). Mr. Johnson had been around earlier, answering questions and generally making sure things were going okay. Right now he should be back in his office on the other side of the building; this first day, you hardly needed to worry about slackers. Dixie Mae felt a little guilty about making that a lie, but . . .
+
+She popped into Victor’s cubicle, grabbed a loose chair. "This better be good, Victor."
+
+"Judge for yourself, Dixie Mae." He looked at his display. "Oops, I lost the window. Just a second." He dinked around with his mouse. "So, have you been putting your name on outgoing messages? That’s the only way I can imagine this happening–"
+
+"No. I have not. I’ve answered twenty-two questions so far, and I’ve been AnnetteG all the way." The fake signature was built into her "send" key. Mr. Johnson said this was to protect employee privacy and give users a feeling of continuity even though follow-up questions would rarely come to the original responder. He didn’t have to say that it was also to make sure that LotsaTech support people would be interchangeable, whether they were working out of the service center in Lahore or Londonderry–or Los Angeles. So far, that had been one of Dixie Mae’s few disappointments about this job; she could never have an ongoing helpful relationship with a customer.
+
+So what the devil was this all about?
+
+"Ah! Here it is." Victor waved at the screen. "What do you make of it?"
+
+The message had come in on the help address. It was in the standard layout enforced by the query acceptance page. But the "previous responder field" was not one of the house sigs. Instead it was:
+
+Ditzie May Lay
+
+"Grow up, Victor."
+
+Victor raised his hands in mock defense, but he had seen her expression, and some of the smirk left his face. "Hey, Dixie Mae, don’t kill the messenger. This is just what came in."
+
+"No way. The server-side script would have rejected an invalid responder name. You faked this."
+
+For a fleeting moment, Victor looked uncertain. Hah! thought Dixie Mae. She had been paying attention during Mr. Johnson’s lectures; she knew more about what was going on here than Victor-the-great-mind. And so his little joke had fallen flat on its rear end. But Victor regrouped and gave a weak smile. "It wasn’t me. How would I know about this, er, nickname of yours?"
+
+"Yes," said Dixie Mae, "it takes real genius to come up with such a clever play on words."
+
+"Honest, Dixie Mae, it wasn’t me. Hell, I don’t even know how to use our form editor to revise header fields."
+
+Now that claim had the ring of truth.
+
+"What’s happening?"
+
+They looked up, saw Ulysse standing at the entrance to the cubicle.
+
+Victor gave her a shrug. "It’s Dit–Dixie Mae. Someone here at LotsaTech is jerking her around."
+
+Ulysse came closer and bent to read from the display. "Yech. So what’s the message?"
+
+Dixie Mae reached across the desk and scrolled down the display. The return address was lusting925@freemail.sg. The topic choice was "Voice Formatting." They got lots on that topic; Voxalot format control wasn’t quite as intuitive as the ads would like you to believe.
+
+But this was by golly not a follow-up on anything Dixie Mae had answered:
+
+. . .
+
+Hey there, Honey Chile! I’ll be truly grateful if you would tell me how to put the following into italics:
+
+"Remember the Tarzanarama tree house? The one you set on fire? If you’d like to start a much bigger fire, then figure out how I know all this. A big clue is that 999 is 666 spelled upside down."
+
+I’ve tried everything and I can’t set the above proposition into indented italics–leastwise without fingering. Please help.
+
+Aching for some of your Southron Hospitality, I remain your very bestest fiend,
+
+–Lusting (for you deeply)
+
+Ulysse’s voice was dry: "So, Victor, you’ve figured how to edit incoming forms."
+
+"God damn it, I’m innocent!"
+
+"Sure you are." Ulysse’s white teeth flashed in her black face. The three little words held a world of disdain.
+
+Dixie Mae held up her hand, waving them both to silence. "I . . . don’t know. There’s something real strange about this mail." She stared at the message body for several seconds. A big ugly chill was growing in her middle. Mom and Dad had built her that tree house when she was seven years old. Dixie Mae had loved it. For two years she was Tarzana of Tarzana. But the name of the tree house–Tarzanarama–had been a secret. Dixie Mae had been nine years old when she torched that marvelous tree house. It had been a terrible accident. Well, a world-class temper tantrum, actually. But she had never meant the fire to get so far out of control. The fire had darn near burned down their real house, too. She had been a scarifyingly well-behaved little girl for almost two years after that incident.
+
+Ulysse was giving the mail a careful read. She patted Dixie Mae on the shoulder. "Whoever this is, he certainly doesn’t sound friendly."
+
+Dixie Mae nodded. "This weasel is pushing every button I’ve got." Including her curiosity. Dad was the only living person that knew who had started the fire, but it was going on four years since he’d had any address for his daughter–and Daddy would never have taken this sex-creep, disrespecting tone.
+
+Victor glanced back and forth between them, maybe feeling hurt that he was no longer the object of suspicion. "So who do you think it is?"
+
+Don Williams craned his head over the next partition. "Who is what?"
+
+Given another few minutes, and they’d have everyone on the floor with some bodily part stuck into Victor’s cubicle.
+
+Ulysse said, "Unless you’re deaf, you know most of it, Don. Someone is messing with us."
+
+"Well then, report it to Johnson. This is our first day, people. It’s not a good day to get sidetracked."
+
+That brought Ulysse down to earth. Like Dixie Mae, she regarded this LotsaTech job as her last real chance to break into a profession.
+
+"Look," said Don. "It’s already lunch time."–Dixie Mae glanced at her watch. It really was!–"We can talk about this in the cafeteria, then come back and give Great Lotsa a solid afternoon of work. And then we’ll be done with our first week!" Williams had been planning a party down at his folks’ place for tonight. It would be their first time off the LotsaTech campus since they took the job.
+
+"Yeah!" said Ulysse. "Dixie Mae, you’ll have the whole weekend to figure out who’s doing this–and plot your revenge."
+
+Dixie Mae looked again at the impossible "previous responder field." "I . . . don’t know. This looks like it’s something happening right here on the LotsaTech campus." She stared out Victor’s picture window. It was the same view as from her cubicle, of course–but now she was seeing everything with a different mind set. Somewhere in the beautiful country-club buildings, there was a real sleaze ball. And he was playing guessing games with her.
+
+Everybody was quiet for a second. Maybe that helped–Dixie Mae realized just what she was looking at: the next lodge down the hill. From here you could only see the top of its second story. Like all the buildings on the campus, it had a four-digit identification number made of gold on every corner. That one was Building 0999.
+
+A big clue is that 999 is just 666 spelled upside down. "Jeez, Ulysse. Look: 999." Dixie Mae pointed down the hillside.
+
+"It could be a coincidence."
+
+"No, it’s too pat." She glanced at Victor. This really was the sort of thing someone like him would set up. But whoever wrote that letter just knew too much. "Look, I’m going to skip lunch today and take a little walk around the campus."
+
+"That’s crazy," said Don. "LotsaTech is an open place, but we’re not supposed to be wandering into other project buildings."
+
+"Then they can turn me back."
+
+"Yeah, what a great way to start out with the new job," said Don. "I don’t think you three realize what a good deal we have here. I know that none of you have worked a customer support job before." He looked around challengingly. "Well I have. This is heaven. We’ve got our own friggin’ offices, onsite tennis courts and health club. We’re being treated like million-dollar system designers. We’re being given all the time we need to give top-notch advice to the customers. What LotsaTech is trying to do here is revolutionary! And you dips are just going to piss it away." Another all-around glare. "Well, do what you want, but I’m going to lunch."
+
+There was a moment of embarrassed silence. Ulysse stepped out of the cubicle and watched Don and others trickle away toward the stairs. Then she was back. "I’ll come with you, Dixie Mae, but . . . have you thought Don may be right? Maybe you could just postpone this till next week?" Unhappiness was written all over her face. Ulysse was a lot like Dixie Mae, just more sensible.
+
+Dixie Mae shook her head. She figured it would be at least fifteen minutes before her common sense could put on the brakes.
+
+"I’ll come, Dixie Mae," said Victor. "Yeah. . . . This could be an interesting story."
+
+Dixie Mae smiled at Ulysse and reached out her hand. "It’s okay, Ulysse. You should go to lunch." The other looked uncertain. "Really. If Mr. Johnson asks about me missing lunch, it would help if you were there to set him right about what a steady person I am."
+
+"Okay, Dixie Mae. I’ll do that." She wasn’t fooled, but this way it really was okay.
+
+Once she was gone, Dixie Mae turned back to Victor. "And you. I want a printed copy of that freakin’ email."
+
+They went out a side door. There was a soft-drink and candy machine on the porch. Victor loaded up on "expeditionary supplies" and the two started down the hill.
+
+"Hot day," said Victor, mumbling around a mouth full of chocolate bar.
+
+"Yeah." The early part of the week had been all June Gloom. But the usual overcast had broken, and today was hot and sunny–and Dixie Mae suddenly realized how pleasantly air-conditioned life had been in the LotsaTech "sweatshop." Common sense hadn’t yet reached the brakes, but it was getting closer.
+
+Victor washed the chocolate down with a Dr. Fizzz and flipped the can behind the oleanders that hung close along the path. "So who do you think is behind that letter? Really?"
+
+"I don’t know, Victor! Why do you think I’m risking my job to find out?"
+
+Victor laughed. "Don’t worry about losing the job, Dixie Mae. Heh. There’s no way it could have lasted even through the summer." He gave his usual superior-knowledge grin.
+
+"You’re an idiot, Victor. Doing customer support right will be a billion dollar winner."
+
+"Oh, maybe . . . if you’re on the right side of it." He paused as if wondering what to tell her. "But for you, look: support costs money. Long ago, the Public Spoke about how much they were willing to pay." He paused, like he was trying to put together a story that she could understand. "Yeah . . . and even if you’re right, your vision of the project is doomed. You know why?"
+
+Dixie Mae didn’t reply. His reason would be something about the crappy quality of the people who had been hired.
+
+Sure enough, Victor continued: "I’ll tell you why. And this is the surprise kink that’s going to make my articles for the Bruin really shine: Maybe LotsaTech has its corporate heart in the right place. That would be surprising considering how they brutalized Microsoft. But maybe they’ve let this bizarre idealism go too far. Heh. For anything long-term, they’ve picked the wrong employees."
+
+Dixie Mae kept her cool. "We took all sorts of psych tests. You don’t think Professor Reich knows what he’s doing?"
+
+"Oh, I bet he knows what he’s doing. But what if LotsaTech isn’t using his results? Look at us. There are some–such as yours truly–who are way over-educated. I’m closing in on a master’s degree in journalism; it’s clear I won’t be around for long. Then there’s people like Don and Ulysse. They have the right level of education for customer support, but they’re too smart. Yes, Ulysse talks about doing this job so well that her talent is recognized, and she is a diligent sort. But I’ll bet that even she couldn’t last a summer. As for some of the others . . . well, may I be frank, Dixie Mae?"
+
+What saved him from a fist in the face was that Dixie Mae had never managed to be really angry about more than one thing at once. "Please do be frank, Victor."
+
+"You talk the same game plan as Ulysse–but I’ll bet your multiphasic shows you have the steadiness of mercury fulminate. Without this interesting email from Mr. Lusting, you might be good for a week, but sooner or later you’d run into something so infuriating that direct action was required–and you’d be bang out on your rear."
+
+Dixie Mae pretended to mull this over. "Well, yes," she said. "After all, you’re still going to be here next week, right?"
+
+He laughed. "I rest my case. But seriously, Dixie Mae, this is what I mean about the personnel situation here. We have a bunch of bright and motivated people, but their motivations are all over the map, and most of their enthusiasm can’t be sustained for any realistic span of time. Heh. So I guess the only rational explanation–and frankly, I don’t think it would work–is that LotsaTech figures . . ."
+
+He droned on with some theory about how LotsaTech was just looking for some quick publicity and a demonstration that high-quality customer support could win back customers in a big way. Then after they flushed all these unreliable new hires, they could throttle back into something cheaper for the long term.
+
+But Dixie Mae’s attention was far away. On her left was the familiar view of Los Angeles. To her right, the ridgeline was just a few hundred yards away. From the crest you could probably see down into the valley, even pick out streets in Tarzana. Someday, it would be nice to go back there, maybe prove to Dad that she could keep her temper and make something of herself. All my life, I’ve been screwing up like today. But that letter from "Lusting" was like finding a burglar in your bedroom. The guy knew too much about her that he shouldn’t have known, and he had mocked her background and her family. Dixie Mae had grown up in Southern California, but she’d been born in Georgia–and she was proud of her roots. Maybe Daddy never realized that, since she was running around rebelling most of the time. He and Mom always said she’d eventually settle down. But then she fell in love with the wrong kind of person–and it was her folks who’d gone ballistic. Words Were Spoken. And even though things hadn’t worked out with her new love, there was no way she could go back. By then Mom had died. Now, I swear I’m not going back to Daddy till I can show I’ve made something of myself.
+
+So why was she throwing away her best job in ages? She slowed to a stop, and just stood there in the middle of the walkway; common sense had finally gotten to the brakes. But they had walked almost all the way to 0999. Much of the building was hidden behind twisty junipers, but you could see down a short flight of stairs to the ground level entrance.
+
+We should go back. She pulled the "Lusting" email out of her pocket and glared at it for a second. Later. You can follow up on this later. She read the mail again. The letters blurred behind tears of rage, and she dithered in the hot summer sunlight.
+
+Victor made an impatient noise. "Let’s go, kiddo." He pushed a chocolate bar into her hand. "Get your blood sugar out of the basement."
+
+They went down the concrete steps to B0999’s entrance. Just a quick look, Dixie Mae had decided.
+
+Beneath the trees and the overhang, all was cool and shady. They peered through the ground floor windows, into empty rooms. Victor pushed open the door. The layout looked about the same as in their own building, except that B0999 wasn’t really finished: There was the smell of Carpenter Nail in the air, and the lights and wireless nodes sat naked on the walls.
+
+The place was occupied. She could hear people talking up on the main floor, what was cubicle-city back in B0994. She took a quick hop up the stairs, peeked in–no cubicles here. As a result, the place looked cavernous. Six or eight tables had been pushed together in the middle of the room. A dozen people looked up at their entrance.
+
+"Aha!" boomed one of them. "More warm bodies. Welcome, welcome!"
+
+They walked toward the tables. Don and Ulysse had worried about violating corporate rules and project secrecy. They needn’t have bothered. These people looked almost like squatters. Three of them had their legs propped up on the tables. Junk food and soda cans littered the tables.
+
+"Programmers?" Dixie Mae muttered to Victor.
+
+"Heh. No, these look more like . . . graduate students."
+
+The loud one had red hair snatched back in a pony tail. He gave Dixie Mae a broad grin. "We’ve got a couple of extra display flats. Grab some seating." He jerked a thumb toward the wall and a stack of folding chairs. "With you two, we may actually be able to finish today!"
+
+Dixie Mae looked uncertainly at the display and keyboard that he had just lit up. "But what–"
+
+"Cognitive Science 301. The final exam. A hundred dollars a question, but we have 107 bluebooks to grade, and Gerry asked mainly essay questions."
+
+Victor laughed. "You’re getting a hundred dollars for each bluebook?"
+
+"For each question in each bluebook, man. But don’t tell. I think Gerry is funding this out of money that LotsaTech thinks he’s spending on research." He waved at the nearly empty room, in this nearly completed building.
+
+Dixie Mae leaned down to look at the display, the white letters on a blue background. It was a standard bluebook, just like at Valley Community College. Only here the questions were complete nonsense, such as:
+
+7. Compare and contrast cognitive dissonance in operant conditioning with Minsky-Loève attention maintenance. Outline an algorithm for constructing the associated isomorphism.
+
+"So," said Dixie Mae, "what’s cognitive science?"
+
+The grin disappeared from the other’s face. "Oh, Christ. You’re not here to help with the grading?"
+
+Dixie Mae shook her head. Victor said, "It shouldn’t be too hard. I’ve had some grad courses in psych."
+
+The redhead did not look encouraged. "Does anyone know this guy?"
+
+"I do," said a girl at the far end of all the tables. "That’s Victor Smaley. He’s a journalism grad, and not very good at that."
+
+Victor looked across the tables. "Hey, Mouse! How ya doing?"
+
+The redhead looked beseechingly at the ceiling. "I do not need these distractions!" His gaze came down to the visitors. "Will you two just please go away?"
+
+"No way," said Dixie Mae. "I came here for a reason. Someone–probably someone here in Building 0999–is messing with our work in Customer Support. I’m going to find out who." And give them some free dental work.
+
+"Look. If we don’t finish grading the exam today, Gerry Reich’s going to make us come back tomorrow and–"
+
+"I don’t think that’s true, Graham," said a guy sitting across the table. "Prof. Reich’s whole point was that we should not feel time pressure. This is an experiment, comparing time-bounded grading with complete individualization."
+
+"Yes!" said Graham the redhead. "That’s exactly why Reich would lie about it. ‘Take it easy, make good money,’ he says. But I’ll bet that if we don’t finish today, he’ll screw us into losing the weekend."
+
+He glared at Dixie Mae. She glared back. Graham was going to find out just what stubborn and willful really meant. There was a moment of silence and then–
+
+"I’ll talk to them, Graham." It was the woman at the far end of the tables.
+
+"Argh. Okay, but not here!"
+
+"Sure, we’ll go out on the porch." She beckoned Dixie Mae and Victor to follow her out the side door.
+
+"And hey," called Graham as they walked out, "don’t take all day, Ellen. We need you here."
+
+The porch on 0999 had a bigger junk-food machine than back at Customer Support. Dixie Mae didn’t think that made up for no cafeteria, but Ellen Garcia didn’t seem to mind. "We’re only going to be here this one day. I’m not coming back on Saturday."
+
+Dixie Mae bought herself a sandwich and soda and they all sat down on some beat-up lawn furniture.
+
+"So what do you want to know?" said Ellen.
+
+"See, Mouse, we’re following up on the weirdest–"
+
+Ellen waved Victor silent, her expression pretty much the same as all Victor’s female acquaintances. She looked expectantly at Dixie Mae.
+
+"Well, my name is Dixie Mae Leigh. This morning we got this email at our customer support address. It looks like a fake. And there are things about it that–" she handed over the hard copy.
+
+Ellen’s gaze scanned down. "Kind of fishy dates," she said to herself. Then she stopped, seeing the "To:" header. She glanced up at Dixie Mae. "Yeah, this is abuse. I used to see this kind of thing when I was a Teaching Assistant. Some guy would start hitting on a girl in my class." She eyed Victor speculatively.
+
+"Why does everybody suspect me?" he said.
+
+"You should be proud, Victor. You have such a reliable reputation." She shrugged. "But actually, this isn’t quite your style." She read on. "The rest is smirky lascivious, but otherwise it doesn’t mean anything to me."
+
+"It means a lot to me," said Dixie Mae. "This guy is talking about things that nobody should know."
+
+"Oh?" She went back to the beginning and stared at the printout some more. "I don’t know about secrets in the message body, but one of my hobbies is rfc9822 headers. You’re right that this is all scammed up. The message number and ident strings are too long; I think they may carry added content."
+
+She handed back the email. "There’s not much more I can tell you. If you want to give me a copy, I could crunch on those header strings over the weekend."
+
+"Oh. . . . Okay, thanks." It was more solid help than anyone had offered so far, but–"Look Ellen, the main thing I was hoping for was some clues here in Building 0999. The letter pointed me here. I run into . . . abusers sometimes, myself. I don’t let them get away with it! I’d bet money that whoever this is, he’s one of those graders." And he’s probably laughing at us right now.
+
+Ellen thought a second and then shook her head. "I’m sorry, Dixie Mae. I know these people pretty well. Some of them are a little strange, but they’re not bent like this. Besides, we didn’t know we’d be here till yesterday afternoon. And today we haven’t had time for mischief."
+
+"Okay," Dixie Mae forced a smile. "I appreciate your help." She would give Ellen a copy of the letter and go back to Customer Support, just slightly better off than if she had behaved sensibly in the first place.
+
+Dixie Mae started to get up, but Victor leaned forward and set his notepad on the table between them. "That email had to come from somewhere. Has anyone here been acting strange, Mousy?"
+
+Ellen glared at him, and after a second he said, "I mean ‘Ellen.’ You know I’m just trying to help out Dixie Mae here. Oh yeah, and maybe get a good story for the Bruin."
+
+Ellen shrugged. "Graham told you; we’re grading on the side for Gerry Reich."
+
+"Huh." Victor leaned back. "Ever since I’ve been at UCLA, Reich has had a reputation for being an operator. He’s got big government contracts and all this consulting at LotsaTech. He tries to come across as a one-man supergenius, but actually it’s just money, um, buying lots and lots of peons. So what do you think he’s up to?"
+
+Ellen shrugged. "Technically, I bet Gerry is misusing his contacts with LotsaTech. But I doubt if they care; they really like him." She brightened. "And I approve of what Prof. Reich is doing with this grading project. When I was a TA, I wished there was some way that I could make a day-long project out of reading each student’s exam. That was an impossible wish; there was just never enough time. But with his contacts here at LotsaTech, Gerry Reich has come close to doing it. He’s paying some pretty sharp grad students very good money to grade and comment on every single essay question. Time is no object, he’s telling us. The students in these classes are going to get really great feedback."
+
+"This guy Reich keeps popping up," said Dixie Mae. "He was behind the testing program that selected Victor and me and the others for customer support."
+
+"Well, Victor’s right about him. Reich is a manipulator. I know he’s been running tests all this week. He grabbed all of Olson Hall for the operation. We didn’t know what it was for until afterwards. He nailed Graham and the rest of our gang for this one-day grading job. It looks like he has all sorts of projects."
+
+"Yeah, we took our tests at Olson Hall, too." There had been a small up-front payment, and hints of job prospects. . . . And Dixie Mae had ended up with maybe the best job offer she’d ever had. "But we did that last week."
+
+"It can’t be the same place. Olson Hall is a gym."
+
+"Yes, that’s what it looked like to me."
+
+"It was used for the NCAA eliminations last week."
+
+Victor reached for his notepad. "Whatever. We gotta be going, Mouse."
+
+"Don’t ‘Mouse’ me, Victor! The NCAA elims were the week of 4 June. I did Gerry’s questionnaire yesterday, which was Thursday, 14 June."
+
+"I’m sorry, Ellen," said Dixie Mae. "Yesterday was Thursday, but it was the 21st of June."
+
+Victor made a calming gesture. "It’s not a big deal."
+
+Ellen frowned, but suddenly she wasn’t arguing. She glanced at her watch. "Let’s see your notepad, Victor. What date does it say?"
+
+"It says, June . . . huh. It says June 15."
+
+Dixie Mae looked at her own watch. The digits were so precise, and a week wrong: Fri Jun 15 12:31:18 PDT 2012. "Ellen, I looked at my watch before we walked over here. It said June 22nd."
+
+Ellen leaned on the table and took a close look at Victor’s notepad. "I’ll bet it did. But both your watch and the notepad get their time off the building utilities. Here you’re getting set by our local clock–and you’re getting the truth."
+
+Now Dixie Mae was getting mad. "Look, Ellen. Whatever the time service says, I would not have made up a whole extra week of my life." All those product-familiarization classes.
+
+"No, you wouldn’t." Ellen brought her heels back on the edge of her chair. For a long moment, she didn’t say anything, just stared through the haze at the city below.
+
+Finally she said: "You know, Victor, you should be pleased."
+
+"Why is that?" suspiciously.
+
+"You may have stumbled into a real, world-class news story. Tell me. During this extra week of life you’ve enjoyed, how often have you used your phone?"
+
+Dixie Mae said, "Not at all. Mr. Johnson–he’s our instructor–said that we’re deadzoned till we get through the first week."
+
+Ellen nodded. "So I guess they didn’t expect the scam to last more than a week. See, we are not deadzoned here. LotsaTech has a pretty broad embargo on web access, but I made a couple of phone calls this morning."
+
+Victor gave her a sharp look. "So where do you think the extra week came from?"
+
+Ellen hesitated. "I think Gerry Reich has gone beyond where the UCLA human subjects committee would ever let him go. You guys probably spent one night in drugged sleep, being pumped chock full of LotsaTech product trivia."
+
+"Oh! You mean . . . Just-in-Time Training?" Victor tapped away at his notepad. "I thought that was years away."
+
+"It is if you play by the FDA’s rules. But there are meds and treatments that can speed up learning. Just read the journals and you’ll see that in another year or two, they’ll be a scandal as big as sports drugs ever were. I think Gerry has just jumped the gun with something that is very, very effective. You have no side-effects. You have all sorts of new, specialized knowledge–even if it’s about a throwaway topic. And apparently you have detailed memories of life experience that never happened."
+
+Dixie Mae thought back over the last week. There had been no strangeness about her experience at Olson Hall: the exams, the job interview. True, the johns were fantastically clean–like a hospital, now that she thought about it. She had only visited them once, right after she accepted the job offer. And then she had . . . done what? Taken a bus directly out to LotsaTech . . . without even going back to her apartment? After that, everything was clear again. She could remember jokes in the Voxalot classes. She could remember meals, and late night talks with Ulysse about what they might do with this great opportunity. "It’s brainwashing," she finally said.
+
+Ellen nodded. "It looks like Gerry has gone way, way too far on this one."
+
+"And he’s stupid, too. Our team is going to a party tonight, downtown. All of a sudden, there’ll be sixteen people who’ll know what’s been done to them. We’ll be mad as–" Dixie Mae noticed Ellen’s pitying look.
+
+"Oh." So tonight instead of partying, their customer support team would be in a drugged stupor, unremembering the week that never was. "We won’t remember a thing, will we?"
+
+Ellen nodded. "My guess is you’ll be well-paid, with memories of some one-day temp job here at LotsaTech."
+
+"Well, that’s not going to happen," said Victor. "I’ve got a story and I’ve got a grudge. I’m not going back."
+
+"We have to warn the others."
+
+Victor shook his head. "Too risky."
+
+Dixie Mae gave him a glare.
+
+Ellen Garcia hugged her knees for a moment. "If this were just you, Victor, I’d be sure you were putting me on." She looked at Dixie Mae for a second. "Let me see that email again."
+
+She spread it out on the table. "LotsaTech has its share of defense and security contracts. I’d hate to think that they might try to shut us up if they knew we were onto them." She whistled an ominous tune. "Paranoia rages. . . . Have you thought that this email might be someone trying to tip you off about what’s going on?"
+
+Victor frowned. "Who, Ellen?" When she didn’t answer, he said, "So what do you think we should do?"
+
+Ellen didn’t look up from the printout. "Mainly, try not to act like idiots. All we really know is that someone has played serious games with your heads. Our first priority is to get us all out of LotsaTech, with you guys free of medical side effects. Our second priority is to blow the whistle on Gerry or . . ." She was reading the mail headers again, ". . . or whoever is behind this."
+
+Dixie Mae said, "I don’t think we know enough not to act like idiots."
+
+"Good point. Okay, I’ll make a phone call, an innocuous message that should mean something to the police if things go really bad. Then I’ll talk to the others in our grading team. We won’t say anything while we’re still at LotsaTech, but once away from here we’ll scream long and loud. You two . . . it might be safest if you just lie low till after dark and we graders get back into town."
+
+Victor was nodding.
+
+Dixie Mae pointed at the mystery email. "What was it you just noticed, Ellen?"
+
+"Just a coincidence, I think. Without a large sample, you start seeing phantoms."
+
+"Speak."
+
+"Well, the mailing address, ‘lusting925@freemail.sg’. Building 0925 is on the hill crest thataway."
+
+"You can’t see that from where we started."
+
+"Right. It’s like ‘Lusting’ had to get you here first. And that’s the other thing. Prof. Reich has a senior graduate student named Rob Lusk."
+
+Lusk? Lusting? The connection seemed weak to Dixie Mae. "What kind of a guy is he?"
+
+"Rob’s not a particularly friendly fellow, but he’s about two sigmas smarter than the average grad student. He’s the reason Gerry has the big reputation for hardware. Gerry has been using him for five or six years now, and I bet Rob is getting desperate to graduate." She broke off. "Look. I’m going to go inside and tell Graham and the others about this. Then we’ll find a place for you to hide for the rest of the day."
+
+She started toward the door.
+
+"I’m not going to hide out," said Dixie Mae.
+
+Ellen hesitated. "Just till closing time. You’ve seen the rent-a-cops at the main gate. This is not a place you can simply stroll out of. But my group will have no trouble going home this evening. As soon as we’re off-site, we’ll raise such a stink that the press and police will be back here. You’ll be safe at home in no time."
+
+Victor was nodding. "Ellen’s right. In fact, it would be even better if we don’t spread the story to the other graders. There’s no telling–"
+
+"I’m not going to hide out!" Dixie Mae looked up the hill. "I’m going to check out 0925."
+
+"That’s crazy, Dixie Mae! You’re guaranteed safe if you just hide till the end of the work day–and then the cops can do better investigating than anything you could manage. You do what Ellen says!"
+
+"No one tells me what to do, Victor!" said Dixie Mae, while inside she was thinking, Yeah, what I’m doing is a little bit like the plot of a cheap game: teenagers enter haunted house, and then split up to be murdered in pieces . . .
+
+But Ellen Garcia was making assumptions, too. Dixie Mae glared at both of them. "I’m following up on this email."
+
+Ellen gave her a long look. Whether it was contemptuous or thoughtful wasn’t clear. "Just wait for me to tell Graham, okay?"
+
+Twenty minutes later, the three of them were outdoors again, walking up the long grade toward Building 0925.
+
+Graham the Red might be a smart guy, but he turned out to be a fool, too. He was sure that the calendar mystery was just a scam cooked up by Dixie Mae and Victor. Ellen wasn’t that good at talking to him–and the two customer support winkies were beneath his contempt. Fortunately, most of the other graders had been willing to listen. One of them also poked an unpleasant hole in all their assumptions: "So if it’s that serious, wouldn’t Gerry have these two under surveillance? You know, the Conspiracy Gestapo could arrive any second." There’d been a moment of apprehensive silence as everyone waited the arrival of bad guys with clubs.
+
+In the end, everyone including Graham had agreed to keep their mouths shut till after work. Several of them had friends they made cryptic phone calls to, just in case. Dixie Mae could tell that most of them tilted toward Ellen’s point of view, but however smart they were, they really didn’t want to cross Graham.
+
+Ellen, on the other hand, was persona non grata for trying to mess up Graham’s schedule. She finally lost her temper with the redheaded jerk.
+
+So now Ellen, Victor, and Dixie Mae were on the yellow brick road–in this case, the asphalt econo-cart walkway–leading to Building 0925.
+
+The LotsaTech campus was new and underpopulated, but there were other people around. Just outside of 0999, they ran into a trio of big guys wearing gray blazers like the cops at the main entrance. Victor grabbed Dixie Mae’s arm. "Just act natural," he whispered.
+
+They ambled past, Victor giving a gracious nod. The three hardly seemed to notice.
+
+Victor released Dixie Mae’s arm. "See? You just have to be cool."
+
+Ellen had been walking ahead. She dropped back so they were three abreast. "Either we’re being toyed with," she said, "or they haven’t caught on to us."
+
+Dixie Mae touched the email in her pocket. "Well, somebody is toying with us."
+
+"You know, that’s the biggest clue we have. I still think it could be somebody trying to–"
+
+Ellen fell silent as a couple of management types came walking the other way. These paid them even less attention than the company cops had.
+
+"–it could be somebody trying to help us."
+
+"I guess," said Dixie Mae. "More likely it’s some sadist using stuff they learned while I was drugged up."
+
+"Ug. Yeah." They batted around the possibilities. It was strange. Ellen Garcia was as much fun to talk to as Ulysse, even though she had to be about five times smarter than either Ulysse or Dixie Mae.
+
+Now they were close enough to see the lower windows of 0925. This place was a double-sized version of 0999 or 0994. There was a catering truck pulled up at the ground level. Beyond a green-tinted windbreak they could see couples playing tennis on the courts south of the building.
+
+Victor squinted. "Strange. They’ve got some kind of blackout on the windows."
+
+"Yeah. We should at least be able to see the strip lights in the ceiling."
+
+They drifted off the main path and walked around to where they wouldn’t be seen from the catering truck. Even up close, down under the overhang, the windows looked just like those on the other buildings. But it wasn’t just dark inside. There was nothing but blackness. The inside of the glass was covered with black plastic like they put on closed storefronts.
+
+Victor whipped out his notepad.
+
+"No phone calls, Victor."
+
+"I want to send out a live report, just in case someone gets really mad about us being here."
+
+"I told you, they’ve got web access embargoed. Besides, just calling from here would trigger 911 locator logic."
+
+"Just a short call, to–"
+
+He looked up and saw that the two women were standing close. "–ah, okay. I’ll just use it as a local cam."
+
+Dixie Mae held out her hand. "Give me the notepad, Victor. We’ll take the pictures."
+
+For a moment it looked like he was going refuse. Then he saw how her other hand was clenched into a fist. And maybe he remembered the lunchtime stories she had told during the week. The week that never was? Whatever the reason, he handed the notepad over to her. "You think I’m working for the bad guys?" he said.
+
+"No," Dixie Mae said (65 percent truthfully, but declining), "I just don’t think you’ll always do what Ellen suggests. This way we’ll get the pictures, but safely." Because of my superior self control. Yeah.
+
+She started to hand the notepad to Ellen, but the other shook her head. "Just keep a record, Dixie Mae. You’ll get it back later, Victor."
+
+"Oh. Okay, but I want first xmit rights." He brightened. "You’ll be my cameragirl, Dixie. Just come back on me anytime I have something important to say."
+
+"Will do, Victor." She panned the notepad camera in a long sweep, away from him.
+
+No one bothered them as they walked halfway around the ground floor. The blackout job was very thorough, but just as at buildings 0994 and 0999, there was an ordinary door with an old-fashioned card swipe.
+
+Ellen took a closer look. "We disabled the locks on 0999 just for the fun of it. Somehow I don’t think these black-plastic guys are that easygoing."
+
+"I guess this is as far as we go," said Victor.
+
+Dixie Mae stepped close to the door and gave it push. There was no error beep, no alarms. The door just swung open.
+
+Looks of amazement were exchanged.
+
+Five seconds later they were still standing at the open doorway. What little they could see looked like your typical LotsaTech ground floor. "We should shut the door and go back," said Victor. "We’ll be caught red-handed standing here."
+
+"Good point." Ellen stepped inside, followed perforce by Victor, and then Dixie Mae taking local video.
+
+"Wait! Keep the door open, Dixie Mae."
+
+"Jeez."
+
+"This is like an airlock!" They were in a tiny room. Above waist height, its walls were clear glass. There was another door on the far end of the little room.
+
+Ellen walked forward. "I had a summer job at Livermore last year. They have catch boxes like this. You walk inside easy enough–and then there are armed guards all around, politely asking you if you’re lost." There were no guards visible here. Ellen pressed on the inner door. Locked. She reached up to the latch mechanism. It looked like cheap plastic. "This should not work," she said, even as she fiddled at it.
+
+They could hear voices, but from upstairs. Down here, there was no one to be seen. Some of the layout was familiar, though. If this had been Building 0994, the hallway on the right would lead to restrooms, a small cafeteria, and a temporary dormitory.
+
+Ellen hesitated and stood listening. She looked back at them. "That’s strange. That sounds like . . . Graham!"
+
+"Can you just break the latch, Ellen?" We should go upstairs and strangle the two-faced weasel with his own ponytail.
+
+Another sound. A door opening! Dixie Mae looked past Ellen and saw a guy coming out of the men’s room. Dixie Mae managed to grab Victor, and the two of them dropped behind the lower section of the holding cell.
+
+"Hey, Ellen," said the stranger, "you look a bit peaked. Is Graham getting on your nerves, too?"
+
+Ellen gave a squeaky laugh. "Y-yeah . . . so what else is new?"
+
+Dixie Mae twisted the notepad and held it so the camera eye looked through the glass. In the tiny screen, she could see that the stranger was smiling. He was dressed in tee-shirt and knee-pants and he had some kind of glittering badge on a loop around his neck.
+
+Ellen’s mouth opened and shut a couple of times, but nothing came out. She doesn’t know this guy from Adam.
+
+The stranger was still clueless, but– "Hey, where’s your badge?"
+
+"Oh . . . damn. I must have left in the john," said Ellen. "And now I’ve locked myself out."
+
+"You know the rules," he said, but his tone was not threatening. He did something on his side of the door. It opened and Ellen stepped through, blocking the guy’s view of what was behind her.
+
+"I’m sorry. I, uh, I got flustered."
+
+"That’s okay. Graham will eventually shut up. I just wish he’d pay more attention to what the professionals are asking of him."
+
+Ellen nodded. "Yeah, I hear you!" Like she was really, really agreeing with him.
+
+"Y’see, Graham’s not splitting the topics properly. The idea is to be both broad and deep."
+
+Ellen continued to make understanding noises. The talkative stranger was full of details about some sort of a NSA project, but he was totally ignorant of the three intruders.
+
+There were light footsteps on the stairs, and a familiar voice. "Michael, how long are you going to be? I want to–" The voice cut off in a surprised squeak.
+
+On the notepad display, Dixie Mae could see two brown-haired girls staring at each other with identical expressions of amazement. They sidled around each other for a moment, exchanging light slaps. It wasn’t fighting . . . it was as if each thought the other was some kind of trick video. Ellen Garcia, meet Ellen Garcia.
+
+The stranger–Michael?–stared with equal astonishment, first at one Ellen and then the other. The Ellens made inarticulate noises just loud enough to interrupt each other and make them even more upset.
+
+Finally Michael said, "I take it you don’t have a twin sister, Ellen?"
+
+"No!" said both.
+
+"So one of you is an impostor. But you’ve spun around so often now that I can’t tell who is the original. Ha." He pointed at one of the Ellens. "Another good reason for having security badges."
+
+But Ellen and Ellen were ignoring everyone except themselves. Except for their chorus of "No!", their words were just mutual interruptions, unintelligible. Finally, they hesitated and gave each other a nasty smile. Each reached into her pocket. One came out with a dollar coin, and the other came out empty.
+
+"Ha! I’ve got the token. Deadlock broken." The other grinned and nodded. Dollar-coin Ellen turned to Michael. "Look, we’re both real. And we’re both only-children."
+
+Michael looked from one to the other. "You’re certainly not clones, either."
+
+"Obviously," said the token holder. She looked at the other Ellen and asked, "Fridge-rot?"
+
+The other nodded and said, "In April I made that worse." And both of them laughed.
+
+Token holder: "Gerry’s exam in Olson Hall?"
+
+"Yup."
+
+Token holder: "Michael?"
+
+"After that," the other replied, and then she blushed. After a second the token holder blushed, too.
+
+Michael said dryly, "And you’re not perfectly identical."
+
+Token holder Ellen gave him a crooked smile. "True. I’ve never seen you before in my life." She turned and tossed the dollar coin to the other Ellen, left hand to left hand.
+
+And now that Ellen had the floor. She was also the version wearing a security badge. Call her NSA Ellen. "As far as I–we–can tell, we had the same stream of consciousness up through the day we took Gerry Reich’s recruitment exam. Since then, we’ve had our own lives. We’ve even got our own new friends." She was looking in the direction of Dixie Mae’s camera.
+
+Grader Ellen turned to follow her gaze. "Come on out, guys. We can see your camera lens."
+
+Victor and Dixie Mae stood and walked out of the security cell.
+
+"A right invasion you are," said Michael, and he did not seem to be joking.
+
+NSA Ellen put her hand on his arm. "Michael, I don’t think we’re in Kansas anymore."
+
+"Indeed! I’m simply dreaming."
+
+"Probably. But if not–" she exchanged glances with grader Ellen "–maybe we should find out what’s been done to us. Is the meeting room clear?"
+
+"Last I looked. Yes, we’re not likely to be bothered in there." He led them down a hallway toward what was simply a janitor’s closet back in Building 0994.
+
+Michael Lee and NSA Ellen were working on still another of Professor Reich’s projects. "Y’see," said Michael, "Professor Reich has a contract with my colleagues to compare our surveillance software with what intense human analysis might accomplish."
+
+"Yes," said NSA Ellen, "the big problem with surveillance has always been the enormous amount of stuff there is to look at. The spook agencies use lots of automation and have lots of great specialists–people like Michael here–but they’re just overwhelmed. Anyway, Gerry had the idea that even though that problem can’t be solved, maybe a team of spooks and graduate students could at least estimate how much the NSA programs are missing."
+
+Michael Lee nodded. "We’re spending the entire summer looking at 1300 to 1400UTC 10 June 2012, backwards and forwards and up and down, but on just three narrow topic areas."
+
+Grader Ellen interrupted him. "And this is your first day on the job, right?"
+
+"Oh, no. We’ve been at this for almost a month now." He gave a little smile. "My whole career has been the study of contemporary China. Yet this is the first assignment where I’ve had enough time to look at the data I’m supposed to pontificate upon. It would be a real pleasure if we didn’t have to enforce security on these rambunctious graduate students."
+
+NSA Ellen patted him on the shoulder. "But if it weren’t for Michael here, I’d be as frazzled as poor Graham. One month down and two months to go."
+
+"You think it’s August?" said Dixie Mae.
+
+"Yes, indeed." He glanced at his watch. "The 10 August it is."
+
+Grader Ellen smiled and told him the various dates the rest of them thought today was.
+
+"It’s some kind of drug hallucination thing," said Victor. "Before we thought it was just Gerry Reich’s doing. Now I think it’s the government torquing our brains."
+
+Both Ellens look at him; you could tell they both knew Victor from way back. But they seemed to take what he was saying seriously. "Could be," they both said.
+
+"Sorry," grader Ellen said to NSA Ellen. "You’ve got the dollar."
+
+"You could be right, Victor. But cognition is my–our–specialty. We two are something way beyond normal dreaming or hallucinations."
+
+"Except that could be illusion, too," said Victor.
+
+"Stuff it, Victor," said Dixie Mae. "If it’s all a dream, we might as well give up." She looked at Michael Lee. "What is the government up to?"
+
+Michael shrugged. "The details are classified, but it’s just a post hoc survey. The isolation rules seem to be something that Professor Reich has worked out with my agency."
+
+NSA Ellen flicked a glance at her double. The two had a brief and strange conversation, mostly half-completed words and phrases. Then NSA Ellen continued, "Mr. Renaissance Man Gerry Reich seems to be at the center of everything. He used some standard personality tests to pick out articulate, motivated people for the customer support job. I bet they do a very good job on their first day."
+
+Yeah. Dixie Mae thought of Ulysse. And of herself.
+
+NSA Ellen continued, "Gerry filtered out another group–graduate students in just the specialty for grading all his various exams and projects."
+
+"We only worked on one exam," said grader Ellen. But she wasn’t objecting. There was an odd smile on her face, the look of someone who has cleverly figured out some very bad news.
+
+"And then he got a bunch of government spooks and CS grads for this surveillance project that Michael and I are on."
+
+Michael looked mystified. Victor looked vaguely sullen, his own theories lying trampled somewhere in the dust. "But," said Dixie Mae, "your surveillance group has been going for a month you say . . ."
+
+Victor: "And the graders do have phone contact with the outside!"
+
+"I’ve been thinking about that," said grader Ellen. "I made three phone calls today. The third was after you and Dixie Mae showed up. That was voicemail to a friend of mine at MIT. I was cryptic, but I tried to say enough that my friend would raise hell if I disappeared. The others calls were–"
+
+"Voicemail, too?" asked NSA Ellen.
+
+"One was voicemail. The other call was to Bill Richardson. We had a nice chat about the party he’s having Saturday. But Bill–"
+
+"Bill took Reich’s ‘job test’ along with the rest of us!"
+
+"Right."
+
+Where this was heading was worse than Victor’s dream theory. "S-so what has been done to us?" said Dixie Mae.
+
+Michael’s eyes were wide, though he managed a tone of dry understatement: "Pardon a backward Han language specialist. You’re thinking we’re just personality uploads? I thought that was science fiction."
+
+Both Ellens laughed. One said, "Oh, it is science fiction, and not just the latest Kywrack episode. The genre goes back almost a century."
+
+The other: "There’s Sturgeon’s ‘Microcosmic God’."
+
+The first: "That would be rich; Gerry beware then! But there’s also Pohl’s ‘Tunnel Under the World’."
+
+"Cripes. We’re toast if that’s the scenario."
+
+"Okay, but how about Varley’s ‘Overdrawn at the Memory Bank’?"
+
+"How about Wilson’s Darwinia?"
+
+"Or Moravec’s ‘Pigs in Cyberspace’?"
+
+"Or Galouye’s Simulacron-3?"
+
+"Or Vinge’s deathcubes?"
+
+Now that the ‘twins’ were not in perfect synch, their words were a building, rapid-fire chorus, climaxing with:
+
+"Brin’s ‘Stones of Significance’!"
+
+"Or Kiln People!"
+
+"No, it couldn’t be that." Abruptly they stopped, and nodded at each other. A little bit grimly, Dixie Mae thought. In all, the conversation was just as inscrutable as their earlier self-interrupted spasms.
+
+Fortunately, Victor was there to rescue pedestrian minds. "It doesn’t matter. The fact is, uploading is only sci-fi. It’s worse that faster-than-light travel. There’s not even a theoretical basis for uploads."
+
+Each Ellen raised her left hand and made a faffling gesture. "Not exactly, Victor."
+
+The token holder continued, "I’d say there is a theoretical basis for saying that uploads are theoretically possible." They gave a lopsided smile. "And guess who is responsible for that? Gerry Reich. Back in 2005, way before he was famous as a multi-threat genius, he had a couple of papers about upload mechanisms. The theory was borderline kookiness and even the simplest demo would take far more processing power than any supercomputer of the time."
+
+"Just for a one-personality upload."
+
+"So Gerry and his Reich Method were something of a laughingstock."
+
+"After that, Gerry dropped the idea–just what you’d expect, considering the showman he is. But now he’s suddenly world-famous, successful in half a dozen different fields. I think something happened. Somebody solved his hardware problem for him."
+
+Dixie Mae stared at her email. "Rob Lusk," she said, quietly.
+
+"Yup," said grader Ellen. She explained about the mail.
+
+Michael was unconvinced. "I don’t know, E-Ellen. Granted, we have an extraordinary miracle here–" gesturing at both of them, "–but speculating about cause seems to me a bit like a sparrow understanding the 405 Freeway."
+
+"No," said Dixie Mae, and they all looked back her way. She felt so frightened and so angry–but of the two, angry was better: "Somebody has set us up! It started in those superclean restrooms in Olson Hall–"
+
+"Olson Hall," said Michael. "You were there too? The lavs smelled like a hospital! I remember thinking that just as I went in, but–hey, the next thing I remember is being on the bus, coming up here."
+
+Like a hospital. Dixie Mae felt rising panic. "M-maybe we’re all that’s left." She looked at the twins. "This uploading thing, does it kill the originals?"
+
+It was kind of a showstopper question; for a moment everyone was silent. Then the token holder said, "I–don’t think so, but Gerry’s papers were mostly theoretical."
+
+Dixie Mae beat down the panic; rage did have its uses. What can we know from here on the inside? "So far we know more than thirty of us who took the Olson Hall exams and ended up here. If we were all murdered, that’d be hard to cover up. Let’s suppose we still have a life." Inspiration: "And maybe there are things we can figure! We have three of Reich’s experiments to compare. There are differences, and they tell us things." She looked at the twins. "You’ve already figured this out, haven’t you? The Ellen we met first is grading papers–just a one-day job, she’s told. But I’ll bet that every night, when they think they’re going home–Lusk or Reich or whoever is doing this just turns them off, and cycles them back to do some other ‘one-day’ job."
+
+"Same with our customer support," said Victor, a grudging agreement.
+
+"Almost. We had six days of product familiarization, and then our first day on the job. We were all so enthusiastic. You’re right, Ellen, on our first day we are great!" Poor Ulysse, poor me; we thought we were going somewhere with our lives. "I’ll bet we disappear tonight, too."
+
+Grader Ellen was nodding. "Customer-support-in-a-box, restarted and restarted, so it’s always fresh."
+
+"But there are still problems," said the other one. "Eventually, the lag in dates would tip you off."
+
+"Maybe, or maybe the mail headers are automatically forged."
+
+"But internal context could contradict–"
+
+"Or maybe Gerry has solved the cognitive haze problem–" The two were off into their semi-private language.
+
+Michael interrupted them. "Not everybody is recycled. The point of our net-tracking project is that we spend the entire summer studying just one hour of network traffic."
+
+The twins smiled. "So you think," said the token holder. "Yes, in this building we’re not rebooted after every imaginary day. Instead, they run us the whole ‘summer’–minutes of computer time instead of seconds?–to analyze one hour of network traffic. And then they run us again, on a different hour. And so on and on."
+
+Michael said, "I can’t imagine technology that powerful."
+
+The token holder said, "Neither can I really, but–"
+
+Victor interrupted with, "Maybe this is the Darwinia scenario. You know: we’re just the toys of some superadvanced intelligence."
+
+"No!" said Dixie Mae. "Not superadvanced. Customer support and net surveillance are valuable things in our own real world. Whoever’s doing this is just getting slave labor, run really, really fast."
+
+Grader Ellen glowered. "And grading his exams for him! That’s the sort of thing that shows me it’s really Gerry behind this. He’s making chumps of all of us, and rerunning us before we catch on or get seriously bored."
+
+NSA Ellen had the same expression, but a different complaint: "We have been seriously bored here."
+
+Michael nodded. "Those from the government side are a patient lot; we’ve kept the graduate students in line. We can last three months. But it does . . . rankle . . . to learn that the reward for our patience is that we get to do it all over again. Damn. I’m sorry, Ellen."
+
+"But now we know!" said Dixie Mae.
+
+"And what good does it do you?" Victor laughed. "So you guessed this time. But at the end of the microsecond day, poof, it’s reboot time and everything you’ve learned is gone."
+
+"Not this time." Dixie Mae looked away from him, down at her email. The cheap paper was crumpled and stained. A digital fake, but so are we. "I don’t think we’re the only people who’ve figured things out." She slid the printout across the table, toward grader Ellen. "You thought it meant Rob Lusk was in this building."
+
+"Yeah, I did."
+
+"Who’s Rob Lusk?" said Michael.
+
+"A weirdo," NSA Ellen said absently. "Gerry’s best grad student." Both Ellens were staring at the email.
+
+"The 0999 reference led Dixie Mae to my grading team. Then I pointed out the source address."
+
+"lusting925@freemail.sg?"
+
+"Yes. And that got us here."
+
+"But there’s no Rob Lusk here," said NSA Ellen. "Huh! I like these fake mail headers."
+
+"Yeah. They’re longer than the whole message body!"
+
+Michael had stood to look over the Ellens’ shoulders. Now he reached between them to tap the message. "See there, in the middle of the second header? That looks like Pinyin with the tone marks written in-line."
+
+"So what does it say?"
+
+"Well, if it’s Mandarin, it would be the number ‘nine hundred and seventeen’."
+
+Victor was leaning forward on his elbows. "That has to be coincidence. How could Lusting know just who we’d encounter?"
+
+"Anybody know of a Building 0917?" said Dixie Mae.
+
+"I don’t," said Michael. "We don’t go out of our building except to the pool and tennis courts."
+
+The twins shook their heads. "I haven’t seen it . . . and right now I don’t want to risk an intranet query."
+
+Dixie Mae thought back to the Lotsa-Tech map that had been in the welcome-aboard brochures. "If there is such a place, it would be farther up the hill, maybe right at the top. I say we go up there."
+
+"But–" said Victor.
+
+"Don’t give me that garbage about waiting for the police, Victor, or about not being idiots. This isn’t Kansas anymore, and this email is the only clue we have."
+
+"What should we tell the people here?" said Michael.
+
+"Don’t tell them anything! We just sneak off. We want the operation here to go on normally, so Gerry or whoever doesn’t suspect."
+
+The two Ellens looked at each other, a strange, sad expression on their faces. Suddenly they both started singing "Home on the Range," but with weird lyrics:
+
+"Oh, give me a clone
+
+Of my own flesh and bone
+
+With–"
+
+They paused and simultaneously blushed. "What a dirty mind that man Garrett had."
+
+"Dirty but deep." NSA Ellen turned to Michael, and she seemed to blush even more. "Never mind, Michael. I think . . . you and I should stay here.
+
+"No, wait," said Dixie Mae. "Where we’re going we may have to convince someone that this crazy story is true. You Ellens are the best evidence we have."
+
+The argument went round and round. At one point, Dixie Mae noticed with wonder that the two Ellens actually seemed to be arguing against each other.
+
+"We don’t know enough to decide," Victor kept whining.
+
+"We have to do something, Victor. We know what happens to you and me if we sit things out till closing time this afternoon."
+
+In the end Michael did stay behind. He was more likely to be believed by his government teammates. If the Ellens and Dixie Mae and Victor could bring back some real information, maybe the NSA group could do some good.
+
+"We’ll be a network of people trying to break this wheel of time." Michael was trying to sound wryly amused, but once he said the words he was silent, and none of the others could think of anything better to say.
+
+Up near the hilltop, there were not nearly as many buildings, and the ones that Dixie Mae saw were single story, as though they were just entrances to something under the hills. The trees were stunted and the grass yellower.
+
+Victor had an explanation. "It’s the wind. You see this in lots of exposed land near the coast. Or maybe they just don’t water very much up here."
+
+An Ellen–from behind, Dixie Mae couldn’t tell which one–said, "Either way, the fabrication is awesome."
+
+Right. A fabrication. "That’s something I don’t understand," said Dixie Mae. "The best movie fx don’t come close to this. How can their computers be this good?"
+
+"Well for one thing," said the other Ellen, "cheating is a lot easier when you’re also simulating the observers."
+
+"Us."
+
+"Yup. Everywhere you look, you see detail, but it’s always at the center of your focus. We humans don’t keep everything we’ve seen and everything we know all in mind at the same time. We have millions of years of evolution invested in ignoring almost everything, and conjuring sense out of nonsense."
+
+Dixie Mae looked southward into the haze. It was all so real: the dry hot breeze, the glint of aircraft sliding down the sky toward LAX, the bulk of the Empire State Building looming up from the skyscrapers at the center of downtown.
+
+"There are probably dozens of omissions and contradictions around us every second, but unless they’re brought together in our attention all at once we don’t notice them."
+
+"Like the time discrepancy," said Dixie Mae.
+
+"Right! In fact, the biggest problem with all our theories is not how we could be individually duped, but how the fraud could work with many communicating individuals all at once. That takes hardware beyond anything that exists, maybe a hundred liters of Bose condensate."
+
+"Some kind of quantum computer breakthrough," said Victor.
+
+Both Ellens turned to look at him, eyebrows raised.
+
+"Hey, I’m a journalist. I read it in the Bruin science section."
+
+The twins’ reply was something more than a monologue and less than a conversation:
+
+"Well . . . even so, you have a point. In fact, there were rumors this spring that Gerry had managed to scale Gershenfeld’s coffee cup coherence scheme."
+
+"Yeah, how he had five hundred liters of Bose condensate at room temperature."
+
+"But those stories started way after he had already become Mr. Renaissance Man. It doesn’t make sense."
+
+We’re not the first people hijacked. "Maybe," said Dixie Mae, "maybe he started out with something simple, like a single superspeed human. Could Gerry run a single upload with the kind of supercomputers we have nowadays?"
+
+"Well, that’s more conceivable than this . . . oh. Okay, so an isolated genius was used to do a century or so of genius work on quantum computing. That sounds like the deathcube scenario. If it were me, after a hundred years of being screwed like that, I’d give Gerry one hell of a surprise."
+
+"Yeah, like instead of a cure for cancer, he’d get airborne rabies targeted on the proteome of scumbag middle-aged male CS profs."
+
+The twins sounded as bloody-minded as Dixie Mae.
+
+They walked another couple of hundred yards. The lawn degenerated into islands of crabgrass in bare dirt. The breeze was a hot whistling along the ridgeline. The twins stopped every few paces to look closely, now at the vegetation, now at a guide sign along the walkway. They were mumbling at each other about the details of what they were seeing, as if they were trying to detect inconsistencies:
+
+". . . really, really good. We agree on everything we see."
+
+"Maybe Gerry is saving cycles, running us as cognitive subthreads off the same process."
+
+"Ha! No wonder we’re still so much in synch."
+
+Mumble, mumble. "There’s really a lot we can infer–"
+
+"–once we accept the insane premise of all this."
+
+There was still no "Building 0917," but what buildings they did see had lower and lower numbers: 0933, 0921. . . .
+
+A loud group of people crossed their path just ahead. They were singing. They looked like programmers.
+
+"Just be cool," an Ellen said softly. "That conga line is straight out of the LotsaTech employee motivation program. The programmers have onsite parties when they reach project milestones."
+
+"More victims?" said Victor. "Or AIs?"
+
+"They might be victims. But I’ll bet all the people we’ve seen along this path are just low-level scenery. There’s nothing in Reich’s theories that would make true AIs possible."
+
+Dixie Mae watched the singers as they drifted down the hillside. This was the third time they had seen something-like-people on the walkway. "It doesn’t make sense, Ellen. We think we’re just–"
+
+"Simulation processes."
+
+"Yeah, simulation processes, inside some sort of super super-computer. But if that’s true, then whoever is behind this should be able to spy on us better than any Big Brother ever could in the real world. We should’ve been caught and rebooted the minute we began to get suspicious."
+
+Both Ellens started to answer. They stopped, then interrupted each other again.
+
+"Back to who’s-got-the-token," one said, holding up the dollar coin. "Dixie Mae, that is a mystery, but not as big as it seems. If Reich is using the sort of upload and simulation techniques I know about, then what goes on inside our minds can’t be interpreted directly. Thoughts are just too idiosyncratic, too scattered. If we are simulations in a large quantum computer, even environment probes would be hard to run."
+
+"You mean things like spy cameras?"
+
+"Yes. They would be hard to implement, since in fact they would be snooping on the state of our internal imagery. All this is complicated by the fact that we’re probably running thousands of times faster than real time. There are maybe three ways that Gerry could snoop: he could just watch team output, and if it falls off, he’d know that something had gone wrong–and he might reboot on general principles."
+
+Suddenly Dixie Mae was very glad that they hadn’t taken more volunteers on this hike.
+
+"The second snoop method is just to look at things we write or the output of software we explicitly run. I’ll bet that anything that we perceive as linear text is capable of outside interpretation." She looked at Victor. "That’s why no note-taking." Dixie Mae still had his notepad.
+
+"It’s kinda stupid," said Victor. "First it was no pictures and now not even notes.
+
+"Hey, look!" said the Ellens. "B0917!" But it wasn’t a building, just a small sign wedged among the rocks.
+
+They scrambled off the asphalt onto a dirt path that led directly up the hillside.
+
+Now they were so near the hill crest that the horizon was just a few yards away. Dixie Mae couldn’t see any land beyond. She remembered a movie where poor slobs like themselves got to the edge of the simulation . . . and found the wall at the end of their universe. But they took a few more steps and she could see over the top. There was a vista of further, lower hills, dropping down into the San Fernando Valley. Not quite hidden in the haze she could see the familiar snakey line of Highway 101. Tarzana.
+
+Ellen and Ellen and Victor were not taking in the view. They were staring at the sign at the side of the path. Fifteen feet beyond that was a construction dig. There were building supplies piled neatly along the edge of the cut, and a robo-Cat parked on the far side. It might have been the beginning of the construction of a standard-model LotsaTech building . . . except that in the far side of the pit, almost hidden in shadows, there was a circular metal plug, like a bank vault door in some old movie.
+
+"I have this theory," said the token holder. "If we get through that door, we may find out what your email is all about."
+
+"Yup." The twins bounced down a steeply cut treadway into the pit. Dixie Mae and Victor scrambled after them, Victor clumsily bumping into her on the way down. The bottom of the pit was like nothing before. There were no windows, no card swipe. And up close, Dixie Mae could see that the vault door was pitted and scratched.
+
+"They’re mixing metaphors," said the token holder. "This entrance looks older than the pit."
+
+"It looks old as the hills," Dixie Mae said, running her hand over the uneven metal–and half expecting to feel weirdo runes. "Somebody is trying to give us clues . . . or somebody is a big sadist. So what do we do? Knock a magic knock?"
+
+"Why not?" The two Ellens took her tattered email and laid it out flat on the metal of the door. They studied the mail headers for a minute, mumbling to each other. The token holder tapped on the metal, then pushed.
+
+"Together," they said, and tapped out a random something, but perfectly in synch.
+
+That had all the effect you’d expect of tapping your fingers on ten tons of dead steel.
+
+The token holder handed the email back to Dixie Mae. "You try something."
+
+But what? Dixie Mae stepped to the door. She stood there, feeling clueless. Off to the side, almost hidden by the curve of the metal plug, Victor had turned away.
+
+He had the notepad.
+
+"Hey!" She slammed him into the side of the pit. Victor pushed her away, but by then the Ellens were on him. There was a mad scramble as the twins tried to do all the same things to Victor. Maybe that confused him. Anyway, it gave Dixie Mae a chance to come back and punch him in the face.
+
+"I got it!" One of the twins jumped back from the fighting. She had the notepad in her hands.
+
+They stepped away from Victor. He wasn’t going to get his notepad back. "So, Ellen," said Dixie Mae, not taking her eyes off the sprawled figure, "what was that third method for snooping on us?"
+
+"I think you’ve already guessed. Gerry could fool some idiot into uploading as a spy." She was looking over her twin’s shoulder at the notepad screen.
+
+Victor picked himself up. For a moment he looked sullen, and then the old superior smile percolated across his features. "You’re crazy. I just want to break this story back in the real world. Don’t you think that if Reich were using spies, he’d just upload himself?"
+
+"That depends."
+
+The one holding the notepad read aloud: "You just typed in: ‘925 999 994 know. reboot’. That doesn’t sound like journalism to me, Victor."
+
+"Hey, I was being dramatic." He thought for a second, and then laughed. "It doesn’t matter anymore! I got the warning out. You won’t remember any of this after you’re rebooted."
+
+Dixie Mae stepped toward him. "And you won’t remember that I broke your neck."
+
+Victor tried to look suave and jump backwards at the same time. "In fact, I will remember, Dixie Mae. See, once you’re gone, I’ll be merged back into my body in Doc Reich’s lab."
+
+"And we’ll be dead again!"
+
+Ellen held up the notepad. "Maybe not as soon as Victor thinks. I notice he never got past the first line of his message; he never pressed return. Now, depending on how faithfully this old notepad’s hardware is being emulated, his treason is still trapped in a local cache–and Reich is still clueless about us."
+
+For a moment, Victor looked worried. Then he shrugged. "So you get to live the rest of this run, maybe corrupt some other projects–ones a lot more important than you. On the other hand, I did learn about the email. When I get back and tell Doc Reich, he’ll know what to do. You won’t be going rogue in the future."
+
+Everyone was silent for a second. The wind whistled across the yellow-blue sky above the pit.
+
+And then the twins gave Victor the sort of smile he had bestowed on them so often. The token holder said, "I think your mouth is smarter than you are, Victor. You asked the right question a second ago: Why doesn’t Gerry Reich upload himself to be the spy? Why does he have to use you?"
+
+"Well," Victor frowned. "Hey, Doc Reich is an important man. He doesn’t have time to waste with security work like this."
+
+"Really, Victor? He can’t spare even a copy of himself?"
+
+Dixie Mae got the point. She closed in on Victor. "So how many times have you been merged back into your original?"
+
+"This is my first time here!" Everybody but Victor laughed, and he rushed on, "But I’ve seen the merge done!"
+
+"Then why won’t Reich do it for us?"
+
+"Merging is too expensive to waste on work threads like you," but now Victor was not even convincing himself.
+
+The Ellens laughed again. "Are you really a UCLA journalism grad, Victor? I thought they were smarter than this. So Gerry showed you a re-merge, did he? I bet that what you actually saw was a lot of equipment and someone going through very dramatic convulsions. And then the ‘subject’ told you a nice story about all the things he’d seen in our little upload world. And all the time they were laughing at you behind their hands. See, Reich’s upload theory depends on having a completely regular target. I know that theory: the merge problem–loading onto an existing mind–is exponential in the neuron count. There’s no way back, Victor."
+
+Victor was backing away from them. His expression flickered between superior sneer and stark panic. "What you think doesn’t matter. You’re just going to be rebooted at 5 p.m. And you don’t know everything." He began fiddling with the fly zipper on his pants. "You see, I–I can escape!"
+
+"Get him!"
+
+Dixie Mae was closest. It didn’t matter.
+
+There was no hazy glow, no sudden popping noise. She simply fell through thin air, right where Victor had been standing.
+
+She picked herself up and stared at the ground. Some smudged footprints were the only sign Victor had been there. She turned back to the twins. "So he could re-merge after all?"
+
+"Not likely," said the token holder. "Victor’s zipper was probably a thread self-terminate mechanism."
+
+"His pants zipper?"
+
+They shrugged. "I dunno. To leak out? Gerry has a perverse sense of humor." But neither twin looked amused. They circled the spot where Victor had left and kicked unhappily at the dirt. The token holder said, "Cripes. Nothing in Victor’s life became him like the leaving it. I don’t think we have even till ‘5 p.m.’ now. A thread terminate signal is just the sort of thing that would be easy to detect from the outside. So Gerry won’t know the details, but he–"
+
+"–or his equipment–"
+
+"–will soon know there is a problem and–"
+
+"–that it’s probably a security problem."
+
+"So how long do we have before we lose the day?" said Dixie Mae.
+
+"If an emergency reboot has to be done manually, we’ll probably hit 5 p.m. first. If it’s automatic, well, I know you won’t feel insulted if the world ends in the middle of a syllable."
+
+"Whatever it is, I’m going to use the time." Dixie Mae picked her email up from where it lay by the vault entrance. She waved the paper at the impassive steel. "I’m not going back! I’m here and I want some explanations!"
+
+Nothing.
+
+The two Ellens stood there, out of ideas and looking unhappy–or maybe that amounted to the same thing.
+
+"I’m not giving up," Dixie Mae said to them, and pounded on the metal.
+
+"No, I don’t think you are," said the token holder. But now they were looking at her strangely. "I think we–you at least–must have been through this before."
+
+"Yeah. And I must have messed up every time."
+
+"No . . . I don’t think so." They pointed at the email that she held crumpled in her hand. "Where do you think all those nasty secrets come from, Dixie Mae?"
+
+"How the freakin’ heck do I know? That’s the whole reason I–" and then she felt smart and stupid at the same time. She leaned her head against the shadowed metal. "Oh. Oh oh oh!"
+
+She looked down at the email hardcopy. The bottom part was torn, smeared, almost illegible. No matter; that part she had memorized. The Ellens had gone over the headers one by one. But now we shouldn’t be looking for technical secrets or grad student inside jokes. Maybe we should be looking for numbers that mean something to Dixie Mae Leigh.
+
+"If there were uploaded souls guarding the door, what you two have already done ought to be enough. I think you’re right. It’s some pattern I’m supposed to tap on the door." If it didn’t work, she’d try something else, and keep trying till 5 p.m. or whenever she was suddenly back in Building 0994, so happy to have a job with potential. . . .
+
+The tree house in Tarzana. Dixie Mae had been into secret codes then. Her childish idea of crypto. She and her little friends used a tap code for sending numbers. It hadn’t lasted long, because Dixie Mae was the only one with the patience to use it. But–
+
+"That number, ‘7474’," she said.
+
+"Yeah? Right in the middle of the fake message number?"
+
+"Yes. Once upon a time, I used that as a password challenge. You know, like ‘Who goes there’ in combat games. The rest of the string could be the response."
+
+The Ellens looked at each. "Looks too short to be significant," they said.
+
+Then they both shook their heads, disagreeing with themselves. "Try it, Dixie Mae."
+
+Her "numbers to taps" scheme had been simple, but for a moment she couldn’t remember it. She held the paper against the vault and glared at the numbers. Ah. Carefully, carefully, she began tapping out the digits that came after "7474." The string was much longer than anything her childhood friends would have put up with. It was longer than anything she herself would have used.
+
+"Cool," said the token holder. "Some kind of hex gray code?"
+
+Huh? "What do you expect, Ellen? I was only eight years old."
+
+They watched the door.
+
+Nothing.
+
+"Okay, on to Plan B," and then to C and D and E, etc, until our time ends.
+
+There was the sound of something very old breaking apart. The vault door shifted under Dixie Mae’s hand and she jumped back. The curved plug slowly turned, and turned, and turned. After some seconds, the metal plug thudded to the ground beside the entrance . . . and they were looking down an empty corridor that stretched off into the depths.
+
+For the first quarter mile, no one was home. The interior decor was not LotsaTech standard. Gone were the warm redwood veneers and glow strips. Here fluorescent tube lights were mounted in the acoustic tile ceiling, and the walls were institutional beige.
+
+"This reminds me of the basement labs in Norman Hall," said one Ellen.
+
+"But there are people in Norman Hall," said the other. They were both whispering.
+
+And here there were stairways that led only down. And down and down.
+
+Dixie Mae said, "Do you get the feeling that whoever is here is in for the long haul?"
+
+"Huh?"
+
+"Well, the graders in B0999 were in for a day, and they thought they had real phone access to the outside. My group in Customer Support had six days of classes and then probably just one more day, where we answered queries–and we had no other contact with the outside."
+
+"Yes," said NSA Ellen. "My group had been running for a month, and we were probably not going to expire for another two. We were officially isolated. No phones, no email, no weekends off. The longer the cycle time, the more isolation. Otherwise, the poor suckers would figure things out."
+
+Dixie Mae thought for a second. "Victor really didn’t want us to get this far. Maybe–" Maybe, somehow, we can make a difference.
+
+They passed a cross corridor, then a second one. A half-opened door showed them an apparent dormitory room. Fresh bedding sat neatly folded on a mattress. Somebody was just moving in?
+
+Ahead there was another doorway, and from it they could hear voices, argument. They crept along, not even whispering.
+
+The voices were making words: "–is a year enough time, Rob?"
+
+The other speaker sounded angry. "Well, it’s got to be. After that, Gerry is out of money and I’m out of time."
+
+The Ellens waved Dixie Mae back as she started for the door. Maybe they wanted to eavesdrop for a while. But how long do we have before time ends? Dixie Mae brushed past them and walked into the room.
+
+There were two guys there, one sitting by an ordinary data display.
+
+"Jesus! Who are you?"
+
+"Dixie Mae Leigh." As you must certainly know.
+
+The one sitting by the terminal gave her a broad grin, "Rob, I thought we were isolated?"
+
+"That’s what Gerry said." This one–Rob Lusk?–looked to be in his late twenties. He was tall and thin and had kind of a desperate look to him. "Okay, Miss Leigh. What are you here for?"
+
+"That’s what you’re going to tell me, Rob." Dixie Mae pulled the email from her pocket and waived the tattered scrap of paper in his face. "I want some explanations!"
+
+Rob’s expression clouded over, a no-one-tells-me-what-to-do look.
+
+Dixie Mae glared back at him. Rob Lusk was a mite too big to punch out, but she was heating up to it.
+
+The twins chose that moment to make their entrance. "Hi there," one of them said cheerily.
+
+Lusk’s eyes flickered from one to the other and then to the NSA ID badge. "Hello. I’ve seen you around the department. You’re Ellen, um, Gomez?"
+
+"Garcia," corrected NSA Ellen. "Yup. That’s me." She patted grader Ellen on the shoulder. "This is my sister, Sonya." She glanced at Dixie Mae. Play along, her eyes seemed to say. "Gerry sent us."
+
+"He did?" The fellow by the computer display was grinning even more. "See, I told you, Rob. Gerry can be brutal, but he’d never leave us without assistants for a whole year. Welcome, girls!"
+
+"Shut up, Danny." Rob looked at them hopefully, but unlike Danny-boy, he seemed quite serious. "Gerry told you this will be a year-long project?"
+
+The three of them nodded.
+
+"We’ve got plenty of bunk rooms, and separate . . . um, facilities." He sounded . . . Lord, he sounded embarrassed. "What are your specialties?"
+
+The token holder said, "Sonya and I are second-year grads, working on cognitive patterning."
+
+Some of the hope drained from Rob’s expression. "I know that’s Gerry’s big thing, but we’re mostly doing hardware here." He looked at Dixie Mae.
+
+"I’m into–" go for it "–Bose condensates." Well, she knew how to pronounce the words.
+
+There were worried looks from the Ellens. But one of them piped up with, "She’s on Satya’s team at Georgia Tech."
+
+It was wonderful what the smile did to Rob’s face. His angry expression of a minute before was transformed into the look of a happy little boy on his way to Disneyland. "Really? I can’t tell you what this means to us! I knew it had to be someone like Satya behind the new formulations. Were you in on that?"
+
+"Oh, yeah. Some of it, anyway." Dixie Mae figured that she couldn’t say more than twenty words without blowing it. But what the heck–how many more minutes did the masquerade have to last, anyway? Little Victor and his self-terminating thread . . .
+
+"That’s great. We don’t have budget for real equipment here, just simulators–"
+
+Out of the corner of her eye, she saw the Ellens exchange a fer sure look.
+
+"–so anyone who can explain the theory to me will be so welcome. I can’t imagine how Satya managed to do so much, so fast, and without us knowing."
+
+"Well, I’d be happy to explain everything I know about it."
+
+Rob waved Danny-boy away from the data display. "Sit down, sit down. I’ve got so many questions!"
+
+Dixie Mae sauntered over to the desk and plunked herself down. For maybe thirty seconds, this guy would think she was brilliant.
+
+The Ellens circled in to save her. "Actually, I’d like to know more about who we’re working with," one of them said.
+
+Rob looked up, distracted, but Danny was more than happy to do some intros. "It’s just the two of us. You already know Rob Lusk. I’m Dan Eastland." He reached around, genially shaking hands. "I’m not from UCLA. I work for LotsaTech, in quantum chemistry. But you know Gerry Reich. He’s got pull everywhere–and I don’t mind being shanghaied for a year. I need to, um, stay out of sight for a while."
+
+"Oh!" Dixie Mae had read about this guy in Newsweek. And it had nothing to do with chemistry. "But you’re–" Dead. Not a good sign at all, at all.
+
+Danny didn’t notice her distraction. "Rob’s the guy with the real problem. Ever since I can remember, Gerry has used Rob as his personal hardware research department. Hey, I’m sorry, Rob. You know it’s true."
+
+Lusk waved him away. "Yes! So tell them how you’re an even bigger fool!" He really wanted to get back to grilling Dixie Mae.
+
+Danny shrugged. "But now, Rob is just one year short of hitting his seven year limit. Do you have that at Georgia Tech, Dixie Mae? If you haven’t completed the doctorate in seven years, you get kicked out?"
+
+"No, can’t say as I’ve heard of that."
+
+"Give thanks then, because since 2006, it’s been an unbendable rule at UCLA. So when Gerry told Rob about this secret hardware contract he’s got with LotsaTech–and promised that Ph.D. in return for some new results–Rob jumped right in."
+
+"Yeah, Danny. But he never told me how far Satya had gone. If I can’t figure this stuff out, I’m screwed. Now let me talk to Dixie Mae!" He bent over the keyboard and brought up the most beautiful screen saver. Then Dixie Mae noticed little numbers in the colored contours and realized that maybe this was what she was supposed to be an expert on. Rob said, "I have plenty of documentation, Dixie Mae–too much. If you can just give me an idea how you scaled up the coherence." He waved at the picture. "That’s almost a thousand liters of condensate, a trillion effective qubits. Even more fantastic, your group can keep it coherent for almost fifty seconds at a time."
+
+NSA Ellen gave a whistle of pretended surprise. "Wow. What use could you have for all that power?"
+
+Danny pointed at Ellen’s badge. "You’re the NSA wonk, Ellen, what do you think? Crypto, the final frontier of supercomputing! With even the weakest form of the Schor-Gershenfeld algorithm, Gerry can crack a ten kilobyte key in less than a millisecond. And I’ll bet that’s why he can’t spare us any time on the real equipment. Night and day he’s breaking keys and sucking in government money."
+
+Grader Ellen–Sonya, that is–puckered up a naive expression. "What more does Gerry want?"
+
+Danny spread his hands. "Some of it we don’t even understand yet. Some of it is about what you’d expect: He wants a thousand thousand times more of everything. He wants to scale the operation by qulink so he can run arrays of thousand-liter bottles."
+
+"And we’ve got just a year to improve on your results, Dixie Mae. But your solution is years ahead of the state of the art." Rob was pleading.
+
+Danny’s glib impress-the-girls manner faltered. For an instant, he looked a little sad and embarrassed. "We’ll get something, Rob. Don’t worry."
+
+"So, how long have you been here, Rob?" said Dixie Mae.
+
+He looked up, maybe surprised by the tone of her voice.
+
+"We just started. This is our first day."
+
+Ah yes, that famous first day. In her twenty-four years, Dixie Mae had occasionally wondered whether there could be rage more intense than the red haze she saw when she started breaking things. Until today, she had never known. But yes, beyond the berserker-breaker there was something else. She did not sweep the display off the table, or bury her fist in anyone’s face. She just sat there for a moment, feeling empty. She looked across at the twins. "I wanted some villains, but these guys are just victims. Worse, they’re totally clueless! We’re back where we started this morning." Where we’ll be again real soon now.
+
+"Hmmm. Maybe not." Speaking together, the twins sounded like some kind of perfect chorus. They looked around the room, eyeing the decor. Then their gazes snapped back to Rob. "You’d think LotsaTech would do better than this for you, Rob."
+
+Lusk was staring at Dixie Mae. He gave an angry shrug. "This is the old Homeland Security lab under Norman Hall. Don’t worry–we’re isolated, but we have good lab and computer services."
+
+"I’ll bet. And what is your starting work date?"
+
+"I just told you: today."
+
+"No, I mean the calendar date."
+
+Danny looked back and forth between them. "Geeze, are all you kids so literal minded? It’s Monday, September 12, 2011."
+
+Nine months. Nine real months. And maybe there was a good reason why this was the first day. Dixie Mae reached out to touch Rob’s sleeve. "The Georgia Tech people didn’t invent the new hardware," she said softly.
+
+"Then just who did make the breakthrough?"
+
+She raised her hand . . . and tapped Rob deliberately on the chest.
+
+Rob just looked more angry, but Danny’s eyes widened. Danny got the point. She remembered that Newsweek article about him. Danny Eastland had been an all-around talented guy. He had blown the whistle on the biggest business espionage case of the decade. But he was dumb as dirt in some ways. If he hadn’t been so eager to get laid, he wouldn’t have snuck away from his Witness Protection bodyguards and gotten himself murdered.
+
+"You guys are too much into hardware," said NSA Ellen. "Forget about crypto applications. Think about personality uploads. Given what you know about Gerry’s current hardware, how many Reich Method uploads do you think the condensate could support?"
+
+"How should I know? The ‘Reich Method’ was baloney. If he hadn’t messed with the reviewers, those papers would never have been published." But the question stopped him. He thought for a moment. "Okay, if his bogus method really worked, then a trillion qubit simulation could support about ten thousand uploads."
+
+The Ellens gave him a slow smile. A slow, identical smile. For once they made no effort to separate their identities. Their words came out simultaneously, the same pacing, the same pitch, a weird humming chorus: "Oh, a good deal less than ten thousand–if you have to support a decent enclosing reality." Each reached out her left hand with inhumanly synchronized precision, the precision of digital duplicates, to wave at the room and the hallway beyond. "Of course, some resources can be saved by using the same base pattern to drive separate threads–" and each pointed at herself.
+
+Both men just stared at them for a second. Then Rob stumbled back into the other chair. "Oh . . . my . . . God."
+
+Danny stared at the two for another few seconds. "All these years, we thought Gerry’s theories were just a brilliant scam."
+
+The Ellens stood with their eyes closed for a second. Then they seemed to startle awake. They looked at each other and Dixie Mae could tell the perfect synch had been broken. NSA Ellen took the dollar coin out of her pocket and gave it to the other. The token holder smiled at Rob. "Oh, it was, only more brilliant and more of a scam than you ever dreamed."
+
+"I wonder if Danny and I ever figure it out."
+
+"Somebody figured it out," said Dixie Mae, and waved what was left of her email.
+
+The token holder was more specific: "Gerry is running us all like stateless servers. Some are on very short cycles. We think you’re on a one-year cycle, probably running longer than anyone. You’re making the discoveries that let Gerry create bigger and bigger systems."
+
+"Okay," said Lusk, "suppose one of us victims guesses the secret? What can we do? We’ll just get rebooted at the end of our run."
+
+Danny Eastland was quicker. "There is something we could do. There has to be information passed between runs, at least if Gerry is using you and me to build on our earlier solutions. If in that data we could hide what we’ve secretly learned–"
+
+The twins smiled. "Right! Cookies. If you could recover them reliably, then on each rev, you could plan more and more elaborate countermeasures."
+
+Rob Lusk still looked dazed. "We’d want to tip off the next generation early in their run."
+
+"Yes, like the very first day!" Danny was looking at the three women and nodding to himself. "Only I still don’t see how we managed that."
+
+Rob pointed at Dixie Mae’s email. "May I take a look at that?" He laid it on the table, and he and Danny examined the message.
+
+The token holder said, "That email has turned out to have more clues than a bad detective story. Every time we’re in a jam, we find the next hidden solution."
+
+"That figures," said Eastland. "I’ll bet it’s been refined over many revs . . ."
+
+"But we may have a special problem this time–" and Dixie Mae told them about Victor.
+
+"Damn," said Danny.
+
+Rob just shrugged. "Nothing we can do about that till we figure this out." He and Danny studied the headers. The token holder explained the parts that had already seen use. Finally, Rob leaned back in his chair. "The second-longest header looks like the tags on one of the raw data files that Gerry gave us."
+
+"Yes," sang the twins. "What’s really your own research from the last time around."
+
+"Most of the files have to be what Gerry thinks, or else he’d catch onto us. But that one raw data file . . . assume it’s really a cookie. Then this email header might be a crypto key."
+
+Danny shook his head. "That’s not credible, Rob. Gerry could do the same analysis."
+
+The token holder laughed. "Only if he knew what to analyze. Maybe that’s why you guys winkled it out to us. The message goes to Dixie Mae–an unrelated person in an unrelated part of the simulation."
+
+"But how did we do it the first time?"
+
+Rob didn’t seem to be paying attention. He was typing in the header string from Dixie Mae’s email. "Let’s try it on the data file. . . ." He paused, checked his keyboard entry, and pressed return.
+
+They stared at the screen. Seconds passed. The Ellens chatted back and forth. They seemed to be worried about executing any sort of text program; like Victor’s notepad, it might be readable to the outside world. "That’s a real risk unless earlier Robs knew the cacheing strategy."
+
+Dixie Mae was only half-listening. If this worked at all, it was pretty good proof that earlier Robs and Dannys had done things right. If this works at all. Even after all that had happened, even after seeing Victor disappear into thin air, Dixie Mae still felt like a little girl waiting for magic she didn’t quite believe in.
+
+Danny gave a nervous laugh. "How big is this cookie?"
+
+Rob leaned his elbows onto the table. "Yeah. How many times have I been through a desperate seventh year?" There was an edge to his voice. You could imagine him pulling one of those deathcube stunts that the Ellens had described.
+
+And then the screen brightened. Golden letters marched across a black-and-crimson fractal pattern: "Hello fellow suckers! Welcome to the 1,237th run of your life."
+
+At first, Danny refused to believe they had spent 1,236 years on Gerry’s treadmill. Rob gave a shrug. "I do believe it. I always told Gerry that real progress took longer than theory-making. So the bastard gave me . . . all the time in the world."
+
+The cookie was almost a million megabytes long. Much of that was detailed descriptions of trapdoors, backdoors, and softsecrets undermining the design that Rob and Danny had created for Gerry Reich. But there were also thousands of megabytes of history and tactics, crafted and hyperlinked across more than a thousand simulated years. Most of it was the work of Danny and Rob, but there were the words of Ellen and Ellen and Dixie Mae, captured in those fleeting hours they spent with Rob and Danny. It was wisdom accumulated increment by precious increment, across cycles of near sameness. As such, it was their past and also their near future.
+
+It even contained speculations about the times before Rob and Danny got the cookie system working: Those earliest runs must have been in the summer of 2011, a single upload of Rob Lusk. Back then, the best hardware in the world couldn’t have supported more than Rob all alone, in the equivalent of a one-room apartment, with a keyboard and data display. Maybe he had guessed the truth; even so, what could he have done about it? Cookies would have been much harder to pass in those times. But Rob’s hardware improved from rev to rev, as Gerry Reich built on Rob’s earlier genius. Danny came on board. Their first successful attempt at a cookie must have been one of many wild stabs in the dark, drunken theorizing on the last night of still another year where Rob had failed to make his deadlines and thought that he was forever Ph.D.-less. The two had put an obscene message on the intrasystem email used for their "monthly" communications with Reich. The address they had used for this random flail was . . . help@lotsatech.com.
+
+In the real world, that must have been around June 15, 2012. Why? Well, at the beginning of their next run, guess who showed up?
+
+Dixie Mae Leigh. Mad as hell.
+
+The message had ended up on Dixie Mae’s work queue, and she had been sufficiently insulted to go raging off across the campus. Dixie Mae had spent the whole day bouncing from building to building, mostly making enemies. Not even Ellen or Ellen had been persuaded to come along. On the other hand, back in the early revs, the landscape reality had been simpler. Dixie Mae had been able to come into Rob’s lair directly from the asphalt walkway.
+
+Danny glanced at Dixie Mae. "And we can only guess how many times you never saw the email, or decided the random obscenities were not meant for you, or just walked in the wrong direction. Dumb luck eventually carried the day."
+
+"Maybe. But I don’t take to being insulted, and I go for the top."
+
+Rob waved them both silent, never looking up from the cookie file: After their first success, Rob and Danny had fine-tuned the email, had learned more from each new Dixie Mae about who was in the other buildings on the hill and how–like the Ellens–they might be used.
+
+"Victor!" Rob and the twins saw the reference at the same time. Rob stopped the autoscroll and they studied the paragraph. "Yes. We’ve seen Victor before. And five revs ago, he actually made it as far as this time. He killed his thread then, too." Rob followed a link marked taking care of Victor. "Oh. Okay. Danny, we’ll have to tweak the log files–"
+
+They stayed almost three hours more. Too long maybe, but Rob and Danny wanted to hear everything the Ellens and Dixie Mae could tell them about the simulation, and who else they had seen. The cookie history showed that things were always changing, getting more elaborate, involving more money-making uses of people Gerry had uploaded.
+
+And they all wanted to keep talking. Except for poor Danny, the cookie said nothing about whether they still existed outside. In a way, knowing each other now was what kept them real.
+
+Dixie Mae could tell that Danny felt that way, even when he complained: "It’s just not safe having to contact unrelated people, depending on them to get the word to up here. "
+
+"So, Danny, you want the three of us to just run and run and never know the truth?"
+
+"No, Dixie Mae, but this is dangerous for you, too. As a matter of fact, in most of your runs, you stay clueless." He waved at the history. "We only see you once per each of our ‘year-long’ runs. I-I guess that’s the best evidence that visiting us is risky."
+
+The Ellens leaned forward, "Okay, then let’s see how things would work without us." The four of them looked over the oldest history entries and argued jargon that meant nothing to Dixie Mae. It all added up to the fact that any local clues left in Rob’s data would be easy for Gerry Reich to detect. On the other hand, messing with unused storage in the intranet mail system was possible, and it was much easier to cloak because the clues could be spread across several other projects.
+
+The Ellens grinned, "So you really do need us, or at least you need Dixie Mae. But don’t worry; we need you, and you have lots to do in your next year. During that time, you’ve got to make some credible progress with what Gerry wants. You saw what that is. Maybe you hardware types don’t realize it, but–" she clicked on a link to the bulleted list of "minimum goals" that Reich had set for Rob and Danny. "–Prof. Reich is asking you for system improvements that would make it easier to partition the projects. And see this stuff about selective decoherence: Ever hear of cognitive haze? I bet with this improvement, Reich could actually do limited meddling with uploaded brain state. That would eliminate date and memory inconsistencies. We might not even recognize cookie clues then!"
+
+Danny looked at the list. "Controlled decoherence?" He followed the link through to an extended discussion. "I wondered what that was. We need to talk about this."
+
+"Yes–wait! Two of us get rebooted in–my God, in thirty minutes." The Ellens looked at each other and then at Dixie Mae.
+
+Danny looked stricken, all his strategic analysis forgotten. "But one of you Ellens is on a three-month cycle. She could stay here."
+
+"Damn it, Danny! We just saw that there are checkpoints every sim day. If the NSA team were short a member for longer than that, we’d have a real problem."
+
+Dixie Mae said, "Maybe we should all leave now, even us . . . short-lifers. If we can get back to our buildings before reboot, it might look better."
+
+"Yeah, you’re right. I’m sorry," said Rob.
+
+She got up and started toward the door. Getting back to Customer Support was the one last thing she could do to help.
+
+Rob stopped her. "Dixie Mae, it would help if you’d leave us with a message to send to you next time."
+
+She pulled the tattered printout from her pocket. The bottom was torn and smeared. "You must have the whole thing in the cookie."
+
+"Still, it would be good to know what you think would work best to get . . . your attention. The history says that background details are gradually changing."
+
+He stood up and gave her a little bow.
+
+"Well, okay." Dixie Mae sat down and thought for a second. Yeah, even if she hadn’t had the message memorized, she knew the sort of insults that would send her ballistic. This wasn’t exactly time travel, but now she was certain who had known all the terrible secrets, who had known how to be absolutely insulting. "My daddy always said that I’m my own worst enemy."
+
+Rob and Danny walked with them back to the vault door. This was all new to the two guys. Danny scrambled out of the pit, and stared bug-eyed at the hills around them. "Rob, we could just walk to the other buildings!" He hesitated, came back to them. "And yeah, I know. If it were that easy, we’d have done it before. We gotta study that cookie, Rob."
+
+Rob just nodded. He looked kind of sad–then noticed that Dixie Mae was looking at him–and gave her a quick smile. They stood for a moment under the late afternoon haze and listened to the wind. The air had cooled and the whole pit was in shadow now.
+
+Time to go.
+
+Dixie Mae gave Rob a smile and her hand. "Hey, Rob. Don’t worry. I’ve spent years trying to become a nicer, wiser, less stubborn person. It never happened. Maybe it never will. I guess that’s what we need now."
+
+Rob took her hand. "It is, but I swear . . . it won’t be an endless treadmill. We will study that cookie, and we’ll design something better than what we have now."
+
+"Yeah." Be as stubborn as I am, pal.
+
+Rob and Dan shook hands all around, wishing them well. "Okay," said Danny, "best be off with you. Rob, we should shut the door and get back. I saw some references in the cookie. If they get rebooted before they reach their places, there are some things we can do."
+
+"Yeah," said Rob. But the two didn’t move immediately from the entrance. Dixie Mae and the twins scrambled out of the pit and walked toward the asphalt. When Dixie Mae looked back, the two guys were still standing there. She gave a little wave, and then they were hidden by the edge of the excavation.
+
+The three trudged along, the Ellens a lot less bubbly than usual. "Don’t worry," NSA Ellen said to her twin, "there’s still two months on the B0994 timeline. I’ll remember for both of us. Maybe I can do some good on that team."
+
+"Yeah," said the other, also sounding down. Then abruptly they both gave one of those identical laughs and they were smiling. "Hey, I just thought of something. True re-merge may always be impossible, but what we have here is almost a kind of merge load. Maybe, maybe–" but their last chance on this turn of the wheel was gone. They looked at Dixie Mae and all three were sad again. "Wish we had more time to think how we wanted this to turn out. This won’t be like the SF stories where every rev you wake up filled with forebodings and subconscious knowledge. We’ll start out all fresh."
+
+Dixie Mae nodded. Starting out fresh. For dozens of runs to come, where there would be nothing after that first week at Customer Support, and putting up with boorish Victor, and never knowing. And then she smiled. "But every time we get through to Dan and Rob, we leave a little more. Every time they see us, they have a year to think. And it’s all happening a thousand times faster than Ol’ Gerry can think. We really are the cookie monsters. And someday–" Someday we’ll be coming for you, Gerry. And it will be sooner than you can dream.

@@ -1,0 +1,153 @@
+# The Macauley Circuit
+
+Robert Silverberg (1956)
+
+I don’t deny I destroyed Macauley’s diagram; I never did deny it, gentlemen. Of course I destroyed it, and for fine, substantial reasons. My big mistake was in not thinking the thing through at the beginning. When Macauley first brought me the circuit, I didn’t pay much attention to it—certainly not as much as it deserved. That was a mistake, but I couldn’t help myself. I was too busy cod­dling old Kolfmann to stop and think what the Macauley circuit really meant.
+
+If Kolfmann hadn’t shown up just when he did, I would have been able to make a careful study of the circuit and, once I had seen all the implications, I would have put the diagram in the incinerator and Macauley right after it. This is nothing against Macauley, you understand; he’s a nice, clever boy, one of the finest minds in our whole research department. That’s his trouble.
+
+He came in one morning while I was outlining my graph for the Beethoven Seventh that we were going to do the following week. I was adding some ultrasonics that would have delighted old Ludwig—not that he would have heard them, of course, but he would have felt them—and I was very pleased about my interpretation. Unlike some synthesizer-interpreters, I don’t believe in changing the score. I figure Beethoven knew what he was doing, and it’s not my business to patch up his symphony. All I was doing was strengthening it by adding the ultrasonics. They wouldn’t change the actual notes any, but there’d be that feeling in the air which is the great artistic triumph of synthesizing.
+
+So I was working on my graph. When Macauley came in I was choosing the frequencies for the second movement, which is difficult because the movement is solemn but not too solemn. Just so. He had a sheaf of paper in his hand, and I knew immediately that he’d hit on something important, because no one interrupts an interpreter for something trivial.
+
+“I’ve developed a new circuit, sir,” he said. “It’s based on the imperfect Kennedy Circuit of 2261.”
+
+I remembered Kennedy—a brilliant boy, much like Macauley here. He had worked out a circuit which almost would have made synthesizing a symphony as easy as playing a harmonica. But it hadn’t quite worked—something in the process fouled up the ultrasonics and what came out was hellish to hear—and we never found out how to straighten things out. Kennedy disappeared about a year later and was never heard from again. All the young technicians used to tinker with his circuit for diversion, each one hoping he’d find the secret. And now Macauley had.
+
+I looked at what he had drawn, and then up at him. Hewas standing there calmly, with a blank expression on his handsome, intelligent face, waiting for me to quiz him.
+
+“This circuit controls the interpretative aspects of music, am I right?”
+
+“Yes, sir. You can set the synthesizer for whatever esthetic you have in mind, and it’ll follow your instruction. You merely have to establish the esthetic coordinates—the work of a moment—and the synthesizer will handle the rest of the interpretation for you. But that’s not exactly the goal of my circuit, sir,” he said, gently, as if to hide from me the fact that he was telling me I had missed his point. “With minor modifications—”
+
+He didn’t get a chance to tell me, because at that moment Kolfmann came dashing into my studio. I never lock my doors, because for one thing no one would dare come in without good and sufficient reason, and for another my analyst pointed out to me that working behind locked doors has a bad effect on my sensibilities, and reduces the esthetic potentialities of my interpretations. So I always work with my door unlocked and that’s how Kolfmann got in. And that’s what saved Macauley’s life, because if he had gone on to tell me what was on the tip of his tongue I would have regretfully incinerated him and his circuit right then and there.
+
+Kolfmann was a famous name to those who loved music. He was perhaps eighty now, maybe ninety, if he had a good gerontologist, and he had been a great concert pianist many years ago. Those of us who knew something about pre-synthesizer musical history knew his name as we would that of Paganini or Horowitz or any other virtuoso of the past, and regarded him almost with awe.
+
+Only all I saw now was a tall, terribly gaunt old man in ragged clothes who burst through my doors and headed straight for the synthesizer, which covered the whole north wall with its gleaming complicated bulk. He had a club in his hand thicker than his arm, and he was about to bash it down on a million credits’ worth of cybernetics when Macauley effortlessly walked over and took it away from him. I was still too flabbergasted to do much more than stand behind my desk in shock.
+
+Macauley brought him over to me and I looked at him as if he were Judas.
+
+“You old reactionary,” I said. “What’s the idea? You can get fined a fortune for wrecking a cyber—or didn’t you know that?”
+
+“My life is ended anyway,” he said in a thick, deep, guttural voice. “It ended when your machines took over music.”
+
+He took off his battered cap and revealed a full head of white hair. He hadn’t shaved in a couple of days, and his face was speckled with stiff-looking white stubble.
+
+“My name is Gregor Kolfmann,” he said. “I’m sure you have heard of me.”
+
+“Kolfmann, the pianist?”
+
+He nodded, pleased despite everything. “Yes, Kolf­mann, the former pianist. You and your machine have taken away my life.”
+
+Suddenly all the hate that had been piling up in me since he burst in—the hate any normal man feels for a cyberwrecker—melted, and I felt guilty and very humble before this old man. As he continued to speak, I realized that I—as a musical artist—had a responsibility to old Kolfmann. I still think that what I did was the right thing, whatever you say.
+
+“Even after synthesizing became the dominant method of presenting music,” he said, “I continued my concert career for years. There were always some people who would rather see a man play a piano than a technician feed a tape through a machine. But I couldn’t compete forever.” He sighed. “After a while anyone who went to live concerts was called a reactionary, and I stopped getting bookings. I took up teaching for my living. But no one wanted to learn to play the piano. A few have studied with me for antiquarian reasons, but they are not artists, just curiosity-seekers. They have no artistic drive. You and your machine have killed art!”
+
+I looked at Macauley’s circuit and at Kolfmann, and felt as if everything were dropping on me at once. I put away my graph for the Beethoven, partly because all the excitement would make it impossible for me to get anywhere with it today and partly because it would only make things worse if Kolfmann saw it. Macauley was still standing there, waiting to explain his circuit to me. I knew it was important, but I felt a debt to old Kolfmann, and I decided I’d take care of him before I let Macauley do any more talking.
+
+“Come back later,” I told Macauley. “I’d like to discuss the implications of your circuit, as soon as I’m through talking to Mr. Kolfmann.”
+
+“Yes, sir,” Macauley said, like the obedient puppet a technician turns into when confronted by a superior, and left. I gathered up the papers he had left me and put them neatly at a corner of my desk. I didn’t want Kolfmann to see them, either, though I knew they wouldn’t mean anything to him except as symbols of the machine he hated.
+
+When Macauley had gone I gestured Kolfmann to a plush pneumochair, into which he settled with the distaste for excess comfort that is characteristic of his generation. I saw my duty plainly—to make things better for the old man.
+
+“We’d be glad to have you come to work for us, Mr. Kolfmann,” I began, smiling. “A man of your great gift—”
+
+He was up out of that chair in a second, eyes blazing. “Work for you? I’d sooner see you and your machines dead and crumbling! You, you scientists—you’ve killed art, and now you’re trying to bribe me!”
+
+“I was just trying to help you,” I said. “Since, in a manner of speaking, we’ve affected your livelihood, I thought I’d make things up to you.”
+
+He said nothing, but stared at me coldly, with the anger of half a century burning in him.
+
+“Look,” I said. “Let me show you what a great musical instrument the synthesizer itself is.” I rummaged in my cabinet and withdrew the tape of the Hohenstein Viola Concerto which we had performed in ’69—a rigorous twelve-tone work which is probably the most demanding, unplayable bit of music ever written. It was no harder for the synthesizer to counterfeit its notes than those of a Strauss waltz, of course, but a human violist would have needed three hands and a prehensile nose to convey any measure of Hohenstein’s musical thought. I activated the playback of the synthesizer and fed the tape in.
+
+The music burst forth. Kolfmann watched the machine suspiciously. The pseudo-viola danced up and down the tone row while the old pianist struggled to place the work.
+
+“Hohenstein?” he finally asked, timidly. I nodded.
+
+I saw a conflict going on within him. For more years than he could remember he had hated us because we had made his art obsolete. But here I was showing him a use for the synthesizer that gave it a valid existence—it was synthesizing a work impossible for a human to play. He was unable to reconcile all the factors in his mind, and the struggle hurt. He got up uneasily and started for the door.
+
+“Where are you going?”
+
+“Away from here,” he said. “You are a devil.”
+
+He tottered weakly through the door, and I let him go. The old man was badly confused, but I had a trick or two up my cybernetic sleeve to settle some of his problems and perhaps salvage him for the world of music. For, whatev­er else you say about me, particularly after this Macauley business, you can’t deny that my deepest allegiance is to music.
+
+I stopped work on my Beethoven’s Seventh, and also put away Macauley’s diagram, and called in a couple of technicians. I told them what I was planning. The first line of inquiry, I decided, was to find out who Kolfmann’s piano teacher had been. They had the reference books out in a flash and we found out who—Gotthard Kellerman, who had died nearly sixty years ago. Here luck was with us. Central was able to locate and supply us with an old tape of the International Music Congress held at Stockholm in 2187, at which Kellerman had spoken briefly on The Development of the Pedal Technique: nothing very exciting, but it wasn’t what he was saying that interested us. We split his speech up into phonemes, analyzed, rearranged, evaluated, and finally went to the synthesizer and began feeding in tapes.
+
+What we got back was a new speech in Kellerman’s voice, or a reasonable facsimile thereof. Certainly it would be good enough to fool Kolfmann, who hadn’t heard his old teacher’s voice in more than half a century. When we had everything ready I sent for Kolfmann, and a couple hours later they brought him in, looking even older and more worn.
+
+“Why do you bother me?” he asked. “Why do you not let me die in peace?”
+
+I ignored his questions. “Listen to this, Mr. Kolfmann.” I flipped on the playback, and the voice of Kellerman came out of the speaker.
+
+“Hello, Gregor,” it said. Kolfmann was visibly startled. I took advantage of the prearranged pause in the recording to ask him if he recognized the voice. He nodded. I could see that he was frightened and suspicious, and I hoped the whole thing wouldn’t backfire.
+
+“Gregor, one of the things I tried most earnestly to teach you—and you were my most attentive pupil—was that you must always be flexible. Techniques must con­stantly change, though art itself remains changeless. But have you listened to me? No.”
+
+Kolfmann was starting to realize what we had done, I saw. His pallor was ghastly now.
+
+“Gregor, the piano is an outmoded instrument. But there is a newer, a greater instrument available for you, and you deny its greatness. This wonderful new synthesizer can do all that the piano could do, and much more. It is a tremendous step forward.”
+
+“All right,” Kolfmann said. His eyes were gleaming strangely. “Turn that machine off.”
+
+I reached over and flipped off the playback.
+
+“You are very clever,” he told me. “I take it you used your synthesizer to prepare this little speech for me.” I nodded.
+
+He was silent an endless moment. A muscle flickered in his cheek. I watched him, not daring to speak.
+
+At length he said, “Well, you have been successful, in your silly, theatrical way. You’ve shaken me.”
+
+“I don’t understand.”
+
+Again he was silent, communing with who knew what internal force. I sensed a powerful conflict raging within him. He scarcely seemed to see me at all as he stared into nothingness. I heard him mutter something in another language; I saw him pause and shake his great old head. And in the end he looked down at me and said, “Perhaps it is worth trying. Perhaps the words you put in Kellerman’s mouth were true. Perhaps. You are foolish, but I have been even more foolish than you. I have stubbornly resisted, when I should have joined forces with you. Instead of denouncing you, I should have been the first to learn how to create music with this strange new instru­ment. Idiot! Moron!”
+
+I think he was speaking of himself in those last two words, but I am not sure. In any case, I had seen a demonstration of the measure of his greatness—the willingness to admit error and begin all over. I had not expected his cooperation; all I had wanted was an end to his hostility. But he had yielded. He had admitted error and was ready to rechart his entire career.
+
+“It’s not too late to learn,” I said. “We could teach you.”
+
+Kolfmann looked at me fiercely for a moment, and I felt a shiver go through me. But my elation knew no bounds. I had won a great battle for music, and I had won it with ridiculous ease.
+
+He went away for a while to master the technique of the synthesizer. I gave him my best man, one whom I had been grooming to take over my place someday. In the meantime I finished my Beethoven, and the performance was a great success. And then I got back to Macauley and his circuit.
+
+Once again things conspired to keep me from full reali­zation of the threat represented by the Macauley circuit. I did manage to grasp that it could easily be refined to eliminate almost completely the human element in musical interpretation. But it’s many years since I worked in the labs, and I had fallen out of my old habit of studying any sort of diagram and mentally tinkering with it and juggling it to see what greater use could be made of it.
+
+While I examined the Macauley circuit, reflecting idly hat when it was perfected it might very well put me out of a job (since anyone would be able to create a musical interpretation, and artistry would no longer be an oper­ative factor) Kolfmann came in with some tapes. He looked twenty years younger; his face was bright and clean, his eyes were shining, and his impressive mane of hair waved grandly.
+
+“I will say it again,” he told me as he put the tapes on my desk. “I have been a fool. I have wasted my life. Instead of tapping away at a silly little instrument, I might have created wonders with this machine. Look: I began with Chopin. Put this on.”
+
+I slipped the tape into the synthesizer and the F Minor Fantaisie of Chopin came rolling into the room. I had heard the tired old warhorse a thousand times, but never like this.
+
+“This machine is the noblest instrument I have ever played,” he said.
+
+I looked at the graph he had drawn up for the piece, in his painstaking crabbed handwriting. The ultrasonics were literally incredible. In just a few weeks he had mastered subtleties I had spent fifteen years learning. He had dis­covered that skillfully chosen ultrasonics, beyond the range of human hearing but not beyond perception, could expand the horizons of music to a point the presynthesizer composers, limited by their crude instruments and faulty knowledge of sonics, would have found inconceivable.
+
+The Chopin almost made me cry. It wasn’t so much the actual notes Chopin had written, which I had heard so often, as it was the unheard notes the synthesizer was striking, up in the ultrasonic range. The old man had chosen his ultrasonics with the skill of a craftsman—no, with the hand of a genius. I saw Kolfmann in the middle of the room, standing proudly while the piano rang out in a glorious tapestry of sound.
+
+I felt that this was my greatest artistic triumph. My Beethoven symphonies and all my other interpretations were of no value beside this one achievement of putting the synthesizer in the hands of Kolfmann.
+
+He handed me another tape and I put it on. It was the Bach Toccata and Fugue in D Minor; evidently he had worked first on the pieces most familiar to him. The sound of a super-organ roared forth from the synthesizer. We were buffeted by the violence of the music. And Kolfmann stood there while the Bach piece raged on. I looked at him and tried to relate him to the seedy old man who had tried to wreck the synthesizer not long ago, and I couldn’t.
+
+As the Bach drew to its close I thought of the Macauley circuit again, and of the whole beehive of blank-faced handsome technicians striving to perfect the synthesizer by eliminating the one imperfect element—man. And I woke up.
+
+My first decision was to suppress the Macauley circuit until after Kolfmann’s death, which couldn’t be too far off. I made this decision out of sheer kindness; you have to recognize that as my motive. Kolfmann, after all these years, was having a moment of supreme triumph, and if I let him know that no matter what he was doing with the synthesizer the new circuit could do it better, it would ruin everything. He would not survive the blow.
+
+He fed the third tape in himself. It was the Mozart Requiem Mass, and I was astonished by the way he had mastered the difficult technique of synthesizing voices. Still, with the Macauley circuit, the machine could handle all these details by itself.
+
+As Mozart’s sublime music swelled and rose, I took out the diagram Macauley had given me, and stared at it grimly. I decided to pigeonhole it until the old man died. Then I would reveal it to the world and, having been made useless myself (for interpreters like me would be a credit a hundred) I would sink into peaceful obscurity, with at least the assurance that Kolfmann had died happy.
+
+That was sheer kindheartedness, gentlemen. Nothing malicious or reactionary about it. I didn’t intend to stop the progress of cybernetics, at least not at that point.
+
+No, I didn’t decide to do that until I got a better look at what Macauley had done. Maybe be didn’t even realize it himself, but I used to be pretty shrewd about such things. Mentally, I added a wire or two here, altered a contact there, and suddenly the whole thing hit me.
+
+A synthesizer hooked up with a Macauley circuit not only didn’t need a human being to provide an esthetic guide to its interpretation of music, which is all Macauley claimed. Up to now, the synthesizer could imitate the pitch of any sound in or out of nature, but we had to control the volume, the timbre, all the things which make up interpretation of music. Macauley had fixed it so that the synthesizer could handle this, too. But also, I now saw that it could create its own music, from scratch, with no human help. Not only the conductor but the composer would be unnecessary. The synthesizer would be able to function independently of any human being. And art is a function of human beings.
+
+That was when I ripped up Macauley’s diagram and heaved the paperweight into the gizzard of my beloved synthesizer, cutting off the Mozart in the middle of a high C. Kolfmann turned around in horror, but I was the one who was really horrified.
+
+I know. Macauley has redrawn his diagram and I haven’t stopped the wheels of science. I feel pretty futile about it all. But before you label me reactionary and stick me away, consider this:
+
+Art is a function of intelligent beings. Once you create a machine capable of composing original music, capable of an artistic act, you’ve created an intelligent being. And one that’s a lot stronger and smarter than we are. We’ve synthesized our successor.
+
+Gentlemen, we are all obsolete.
